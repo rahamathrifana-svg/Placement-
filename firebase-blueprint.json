@@ -1,0 +1,40 @@
+{
+  "entities": {
+    "user": {
+      "title": "User Profile",
+      "description": "User profile representation in Placement Quest",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string", "maxLength": 100 },
+        "photoURL": { "type": "string", "maxLength": 1000 },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "userProgress": {
+      "title": "User Progress",
+      "description": "User gamified progress state, XP, streak checkins, and completed modules",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "xp": { "type": "number" },
+        "state": { "type": "object" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "xp", "state"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "user",
+      "description": "User profile document storing basic account metadata"
+    },
+    "/users/{userId}/progress/{progressId}": {
+      "schema": "userProgress",
+      "description": "User quest state, achievements, XP, daily streak, and progress tracking"
+    }
+  }
+}

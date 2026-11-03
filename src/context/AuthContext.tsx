@@ -1,8 +1,9 @@
 import React, { createContext, useContext, useEffect, useState, useRef, useCallback } from 'react';
 import { User, onAuthStateChanged, signInWithPopup, signOut as fbSignOut } from 'firebase/auth';
-import { auth, googleAuthProvider } from '../lib/firebase.ts';
+import { doc, onSnapshot, setDoc } from 'firebase/firestore';
+import { auth, googleAuthProvider, db, handleFirestoreError, OperationType } from '../lib/firebase.ts';
 import { AppState, INITIAL_STATE } from '../types/index.ts';
-import { todayStr, addDays } from '../utils/dateUtils.ts';
+import { todayStr } from '../utils/dateUtils.ts';
 
 interface AuthContextType {
   user: User | null;
@@ -65,12 +66,11 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   });
 
   const stateRef = useRef(appState);
-
   stateRef.current = appState;
 
   const saveTimerRef = useRef<NodeJS.Timeout | null>(null);
 
-  // Debounced cloud save to Cloud SQL via /api/progress
+  // Debounced cloud save to Firestore and fallback to /api/progress
   const queueCloudSync = useCallback(async (stateToSave: AppState) => {
     try {
       localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(stateToSave));
@@ -87,30 +87,49 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
     setSyncStatus('syncing');
     saveTimerRef.current = setTimeout(async () => {
-      try {
-        const token = await auth.currentUser?.getIdToken();
-        if (!token) return;
+      const currentUser = auth.currentUser;
+      if (!currentUser) return;
 
-        const res = await fetch('/api/progress', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            Authorization: `Bearer ${token}`,
-          },
-          body: JSON.stringify({
+      try {
+        const progressDocRef = doc(db, 'users', currentUser.uid, 'progress', 'state');
+        await setDoc(
+          progressDocRef,
+          {
+            userId: currentUser.uid,
             xp: stateToSave.xp,
             state: stateToSave,
-          }),
-        });
-
-        if (!res.ok) {
-          throw new Error(`Sync error: ${res.statusText}`);
-        }
-
+            updatedAt: new Date().toISOString(),
+          },
+          { merge: true }
+        );
         setSyncStatus('synced');
-      } catch (err) {
-        console.error('Failed to sync state to database:', err);
-        setSyncStatus('offline');
+      } catch (firestoreErr) {
+        console.warn('Direct Firestore write fallback to API:', firestoreErr);
+        try {
+          const token = await currentUser.getIdToken();
+          if (!token) return;
+
+          const res = await fetch('/api/progress', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              Authorization: `Bearer ${token}`,
+            },
+            body: JSON.stringify({
+              xp: stateToSave.xp,
+              state: stateToSave,
+            }),
+          });
+
+          if (!res.ok) {
+            throw new Error(`Sync error: ${res.statusText}`);
+          }
+
+          setSyncStatus('synced');
+        } catch (apiErr) {
+          console.error('Failed to sync state to database:', apiErr);
+          setSyncStatus('offline');
+        }
       }
     }, 600);
   }, [toast]);
@@ -135,69 +154,93 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     });
   }, [queueCloudSync, toast]);
 
-  // Listen to Firebase Auth state
+  // Listen to Firebase Auth state and Firestore real-time progress
   useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, async (currentUser) => {
+    let unsubscribeFirestore: (() => void) | null = null;
+
+    const unsubscribeAuth = onAuthStateChanged(auth, async (currentUser) => {
       setUser(currentUser);
+      if (unsubscribeFirestore) {
+        unsubscribeFirestore();
+        unsubscribeFirestore = null;
+      }
+
       if (currentUser) {
         setSyncStatus('syncing');
+
+        // Background profile sync
         try {
           const token = await currentUser.getIdToken();
-          const res = await fetch('/api/auth/sync', {
+          fetch('/api/auth/sync', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
               Authorization: `Bearer ${token}`,
             },
-          });
-
-          if (res.ok) {
-            const data = await res.json();
-            if (data.state) {
-              const today = todayStr();
-              setAppState((prev) => {
-                const merged: AppState = {
-                  ...prev,
-                  ...data.state,
-                  xp: Math.max(prev.xp || 0, data.xp || 0),
-                  start: today,
-                };
-                if (!merged.checkins || !merged.checkins.includes(today)) {
-                  merged.checkins = [today];
-                }
-                if (!merged.ap) merged.ap = { start: today, ci: [today], d: {}, max: today };
-                merged.ap.start = today;
-                if (!merged.ap.ci || !merged.ap.ci.includes(today)) {
-                  merged.ap.ci = [today];
-                }
-                if (!merged.lr) merged.lr = {};
-                if (!merged.ss) merged.ss = {};
-                if (!merged.ap.d) merged.ap.d = {};
-
-                localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(merged));
-                return merged;
-              });
-
-            } else {
-              // New user in DB - push local state to DB
-              queueCloudSync(stateRef.current);
-            }
-            setSyncStatus('synced');
-          } else {
-            console.warn('API sync response not OK:', res.status);
-            setSyncStatus('offline');
-          }
+          }).catch((err) => console.warn('Background auth sync notice:', err));
         } catch (e) {
-          console.error('Initial DB sync failed:', e);
-          setSyncStatus('offline');
+          console.warn('Failed to fetch auth sync token:', e);
         }
+
+        // Real-time snapshot listener on Firestore progress document
+        const progressDocRef = doc(db, 'users', currentUser.uid, 'progress', 'state');
+        unsubscribeFirestore = onSnapshot(
+          progressDocRef,
+          (docSnap) => {
+            if (docSnap.exists()) {
+              const data = docSnap.data();
+              if (data && data.state) {
+                const today = todayStr();
+                setAppState((prev) => {
+                  const merged: AppState = {
+                    ...prev,
+                    ...data.state,
+                    xp: Math.max(prev.xp || 0, data.xp || 0),
+                    start: today,
+                  };
+                  if (!merged.checkins || !merged.checkins.includes(today)) {
+                    merged.checkins = [today];
+                  }
+                  if (!merged.ap) merged.ap = { start: today, ci: [today], d: {}, max: today };
+                  merged.ap.start = today;
+                  if (!merged.ap.ci || !merged.ap.ci.includes(today)) {
+                    merged.ap.ci = [today];
+                  }
+                  if (!merged.lr) merged.lr = {};
+                  if (!merged.ss) merged.ss = {};
+                  if (!merged.ap.d) merged.ap.d = {};
+
+                  try {
+                    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(merged));
+                  } catch (e) {}
+                  return merged;
+                });
+                setSyncStatus('synced');
+              }
+            } else {
+              // First time user in Firestore: push state
+              queueCloudSync(stateRef.current);
+              setSyncStatus('synced');
+            }
+          },
+          (error) => {
+            console.error('Firestore onSnapshot error:', error);
+            setSyncStatus('offline');
+            try {
+              handleFirestoreError(error, OperationType.GET, `users/${currentUser.uid}/progress/state`);
+            } catch (e) {}
+          }
+        );
       } else {
         setSyncStatus('idle');
       }
       setLoading(false);
     });
 
-    return () => unsubscribe();
+    return () => {
+      unsubscribeAuth();
+      if (unsubscribeFirestore) unsubscribeFirestore();
+    };
   }, [queueCloudSync]);
 
   const signInWithGoogle = async () => {

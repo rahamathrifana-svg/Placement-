@@ -1,0 +1,63 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default-deny catch-all to ensure closed-by-default security
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isValidUser(data) {
+      return data.uid is string &&
+             data.uid == request.auth.uid &&
+             data.email is string &&
+             data.email.size() <= 256;
+    }
+
+    function isValidProgress(data) {
+      return data.userId is string &&
+             data.userId == request.auth.uid;
+    }
+
+    // Health / connection probe document
+    match /test/{docId} {
+      allow get: if true;
+    }
+
+    // User profile documents
+    match /users/{userId} {
+      allow get: if isValidId(userId) && isOwner(userId);
+      allow create: if isValidId(userId) && isOwner(userId) && isValidUser(incoming());
+      allow update: if isValidId(userId) && isOwner(userId) && isValidUser(incoming()) && incoming().uid == existing().uid;
+      allow delete: if false;
+
+      // User quest progress, state, XP, daily streak, and achievements
+      match /progress/{progressId} {
+        allow get: if isValidId(progressId) && isOwner(userId);
+        allow list: if isOwner(userId);
+        allow create: if isValidId(progressId) && isOwner(userId) && isValidProgress(incoming());
+        allow update: if isValidId(progressId) && isOwner(userId) && isValidProgress(incoming()) && incoming().userId == existing().userId;
+        allow delete: if false;
+      }
+    }
+  }
+}

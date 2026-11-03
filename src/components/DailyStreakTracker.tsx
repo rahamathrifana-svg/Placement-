@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useCallback } from 'react';
 import { useAuth } from '../context/AuthContext.tsx';
-import { rtdb } from '../lib/firebase.ts';
-import { ref, onValue, set, get } from 'firebase/database';
+import { db, handleFirestoreError, OperationType } from '../lib/firebase.ts';
+import { doc, onSnapshot, setDoc } from 'firebase/firestore';
 import { todayStr, addDays } from '../utils/dateUtils.ts';
 import { Flame, Trophy, Sparkles, CheckCircle2, Gift, Clock, Zap, Shield } from 'lucide-react';
 
@@ -50,22 +50,21 @@ export const DailyStreakTracker: React.FC = () => {
     return getDefaultStreakData();
   });
 
-
   const [isClaiming, setIsClaiming] = useState(false);
-  const [isRtdbConnected, setIsRtdbConnected] = useState(false);
+  const [isDbConnected, setIsDbConnected] = useState(false);
 
-  // Subscribe to Firebase Realtime Database
+  // Subscribe to Firebase Firestore Streak document
   useEffect(() => {
-    if (!user || !rtdb) return;
+    if (!user) return;
 
-    const streakRef = ref(rtdb, `users/${user.uid}/daily_streak`);
+    const streakRef = doc(db, 'users', user.uid, 'progress', 'streak');
 
-    const unsubscribe = onValue(
+    const unsubscribe = onSnapshot(
       streakRef,
       (snapshot) => {
-        setIsRtdbConnected(true);
+        setIsDbConnected(true);
         if (snapshot.exists()) {
-          const val = snapshot.val() as StreakData;
+          const val = snapshot.data() as StreakData;
           if (!val.streakCount || val.streakCount < 1) {
             val.streakCount = 1;
             val.lastLoginDate = today;
@@ -74,8 +73,9 @@ export const DailyStreakTracker: React.FC = () => {
           setStreakData(val);
           localStorage.setItem(`pq_streak_${user.uid}`, JSON.stringify(val));
         } else {
-          // Initialize in RTDB with Day 1
-          const initial: StreakData = {
+          // Initialize in Firestore with Day 1
+          const initial = {
+            userId: user.uid,
             streakCount: 1,
             lastLoginDate: today,
             lastRewardClaimDate: '',
@@ -84,15 +84,14 @@ export const DailyStreakTracker: React.FC = () => {
             totalBonusXp: 0,
             updatedAt: Date.now(),
           };
-          set(streakRef, initial).catch((err) => {
-            console.warn('Realtime database init note:', err);
+          setDoc(streakRef, initial, { merge: true }).catch((err) => {
+            console.warn('Firestore streak init note:', err);
           });
-
         }
       },
       (error) => {
-        console.warn('Realtime database subscription error:', error);
-        setIsRtdbConnected(false);
+        console.warn('Firestore streak subscription note:', error);
+        setIsDbConnected(false);
       }
     );
 
@@ -151,11 +150,18 @@ export const DailyStreakTracker: React.FC = () => {
         updatedAt: Date.now(),
       };
 
-      // 1. Update Realtime Database
-      if (user && rtdb) {
-        const streakRef = ref(rtdb, `users/${user.uid}/daily_streak`);
-        await set(streakRef, updatedStreak).catch((err) => {
-          console.warn('Realtime DB write warning:', err);
+      // 1. Update Firestore Database
+      if (user) {
+        const streakRef = doc(db, 'users', user.uid, 'progress', 'streak');
+        await setDoc(
+          streakRef,
+          {
+            userId: user.uid,
+            ...updatedStreak,
+          },
+          { merge: true }
+        ).catch((err) => {
+          console.warn('Firestore streak write warning:', err);
         });
       }
 
@@ -220,17 +226,9 @@ export const DailyStreakTracker: React.FC = () => {
             <Flame className="w-7 h-7 fill-white animate-pulse" />
           </div>
           <div>
-            <div className="flex items-center gap-2">
-              <h2 className="text-xl sm:text-2xl text-[#14275e] dark:text-[#ffc83d]">
-                Daily Streak Tracker
-              </h2>
-              {isRtdbConnected && (
-                <span className="hidden sm:inline-flex items-center gap-1 text-[10px] bg-[#dcf7e8] dark:bg-[#14402c] text-[#06301a] dark:text-green-300 px-2 py-0.5 rounded-full font-black border border-green-500/30">
-                  <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-ping" />
-                  Realtime DB
-                </span>
-              )}
-            </div>
+            <h2 className="text-xl sm:text-2xl text-[#14275e] dark:text-[#ffc83d]">
+              Daily Streak Tracker
+            </h2>
             <p className="text-xs text-[#5a6685] dark:text-[#a5b1d6] font-bold">
               Check in daily to earn consistent XP bonuses and maintain your learning momentum!
             </p>

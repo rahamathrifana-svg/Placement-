@@ -3,6 +3,7 @@
   "appId": "1:925389801787:web:b9079da3d8061a77ef0f1e",
   "apiKey": "AIzaSyCpkoA3AE48rauqcF61S-goB0L9ccC1-yg",
   "authDomain": "smiling-mode-1cwq9.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-placementquest-2bff9e50-eebe-41ce-9363-a52f95f65c27",
   "storageBucket": "smiling-mode-1cwq9.firebasestorage.app",
   "messagingSenderId": "925389801787",
   "measurementId": "",

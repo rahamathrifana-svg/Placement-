@@ -1,86 +1,96 @@
-import { db } from './index.ts';
-import { users, userState, certifications, projects } from './schema.ts';
-import { eq } from 'drizzle-orm';
+import { adminDb } from '../lib/firebase-admin.ts';
 
 export async function getOrCreateUser(uid: string, email: string, displayName?: string, photoUrl?: string) {
   try {
-    const result = await db.insert(users)
-      .values({
-        uid,
-        email,
-        displayName: displayName || null,
-        photoUrl: photoUrl || null,
-      })
-      .onConflictDoUpdate({
-        target: users.uid,
-        set: {
-          email,
-          displayName: displayName || null,
-          photoUrl: photoUrl || null,
-          updatedAt: new Date(),
-        },
-      })
-      .returning();
+    const userRef = adminDb.collection('users').doc(uid);
+    const snap = await userRef.get();
 
-    return result[0];
+    const now = new Date().toISOString();
+    const data = {
+      uid,
+      email,
+      displayName: displayName || (snap.exists ? snap.data()?.displayName : '') || '',
+      photoUrl: photoUrl || (snap.exists ? snap.data()?.photoUrl : '') || '',
+      updatedAt: now,
+      ...(!snap.exists ? { createdAt: now } : {}),
+    };
+
+    await userRef.set(data, { merge: true });
+    return data;
   } catch (error) {
-    console.error('Database query failed in getOrCreateUser:', error);
+    console.error('Firestore query failed in getOrCreateUser:', error);
     throw new Error('Database operation failed. Unable to authenticate user profile.', { cause: error });
   }
 }
 
 export async function getUserState(uid: string) {
   try {
-    const records = await db.select().from(userState).where(eq(userState.userId, uid));
-    if (records.length === 0) return null;
-    return records[0];
+    const progressRef = adminDb.collection('users').doc(uid).collection('progress').doc('state');
+    const snap = await progressRef.get();
+    if (!snap.exists) return null;
+
+    const data = snap.data();
+    return {
+      userId: uid,
+      xp: data?.xp ?? 0,
+      stateJson: typeof data?.state === 'string' ? data.state : JSON.stringify(data?.state ?? {}),
+      updatedAt: data?.updatedAt || new Date().toISOString(),
+    };
   } catch (error) {
-    console.error('Database query failed in getUserState:', error);
+    console.error('Firestore query failed in getUserState:', error);
     throw new Error('Database operation failed. Unable to load user state.', { cause: error });
   }
 }
 
 export async function saveUserState(uid: string, xp: number, stateJson: string) {
   try {
-    const result = await db.insert(userState)
-      .values({
-        userId: uid,
-        xp,
-        stateJson,
-        version: 1,
-        updatedAt: new Date(),
-      })
-      .onConflictDoUpdate({
-        target: userState.userId,
-        set: {
-          xp,
-          stateJson,
-          updatedAt: new Date(),
-        },
-      })
-      .returning();
+    const progressRef = adminDb.collection('users').doc(uid).collection('progress').doc('state');
+    const parsedState = typeof stateJson === 'string' ? JSON.parse(stateJson) : stateJson;
+    const now = new Date().toISOString();
 
-    return result[0];
+    const progressData = {
+      userId: uid,
+      xp: Number(xp) || 0,
+      state: parsedState,
+      updatedAt: now,
+    };
+
+    await progressRef.set(progressData, { merge: true });
+
+    // Also update parent user document's updatedAt
+    await adminDb.collection('users').doc(uid).set({ updatedAt: now }, { merge: true });
+
+    return {
+      userId: uid,
+      xp: Number(xp) || 0,
+      updatedAt: now,
+    };
   } catch (error) {
-    console.error('Database query failed in saveUserState:', error);
+    console.error('Firestore query failed in saveUserState:', error);
     throw new Error('Database operation failed. Unable to save user state.', { cause: error });
   }
 }
 
 export async function getCertifications(uid: string) {
   try {
-    return await db.select().from(certifications).where(eq(certifications.userId, uid));
+    const progress = await getUserState(uid);
+    if (!progress) return [];
+    const state = JSON.parse(progress.stateJson);
+    return state.certs || [];
   } catch (error) {
-    console.error('Database query failed in getCertifications:', error);
+    console.error('Firestore query failed in getCertifications:', error);
     throw new Error('Database operation failed. Unable to fetch certifications.', { cause: error });
   }
 }
 
 export async function getProjects(uid: string) {
   try {
-    return await db.select().from(projects).where(eq(projects.userId, uid));
+    const progress = await getUserState(uid);
+    if (!progress) return [];
+    const state = JSON.parse(progress.stateJson);
+    return state.pl || [];
   } catch (error) {
-    console.error('Database query failed in getProjects:', error);
+    console.error('Firestore query failed in getProjects:', error);
     throw new Error('Database operation failed. Unable to fetch projects.', { cause: error });
   }
 }
