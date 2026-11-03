@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *, .dark, .dark *));
+
+:root {
+  --bg: #e6ebf5;
+  --card: #f4f6fa;
+  --ink: #0f1c3f;
+  --mut: #5a6685;
+  --navy: #14275e;
+  --line: #14275e;
+  --blue: #4c7dff;
+  --green: #2fbf71;
+  --yel: #ffc83d;
+  --red: #ff5d6c;
+  --pk: #f3e8ff;
+  --bl: #e3edff;
+  --gr: #dcf7e8;
+  --ye: #fff3cc;
+  color-scheme: light;
+}
+
+:root[data-theme='dark'],
+.dark {
+  --bg: #0b1330;
+  --card: #14204a;
+  --ink: #eef2ff;
+  --mut: #a5b1d6;
+  --line: #6f8cff;
+  --bl: #1d2f6b;
+  --gr: #14402c;
+  --ye: #4a3e12;
+  --pk: #2e2255;
+  color-scheme: dark;
+}
+
+html, body {
+  margin: 0;
+  background-color: var(--bg);
+  color: var(--ink);
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+  font-weight: 700;
+  min-height: 100vh;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+h1, h2, h3, h4, .font-lilita {
+  font-family: 'Lilita One', system-ui, sans-serif;
+  letter-spacing: 0.3px;
+  font-weight: 400;
+}
+
+/* Dim harsh pure white in light mode to a gentle, comfortable soft off-white */
+:root:not(.dark):not([data-theme="dark"]) .bg-white,
+[data-theme="light"] .bg-white,
+body:not(.dark) .bg-white {
+  background-color: #f4f6fa !important;
+}
+
+/* Dim secondary light containers slightly to preserve contrast with dimmed cards */
+:root:not(.dark):not([data-theme="dark"]) .bg-\[\#eef2fb\],
+[data-theme="light"] .bg-\[\#eef2fb\],
+body:not(.dark) .bg-\[\#eef2fb\] {
+  background-color: #e5ebf7 !important;
+}
+
+/* Hover state on dimmed white elements */
+:root:not(.dark):not([data-theme="dark"]) .hover\:bg-gray-50:hover,
+[data-theme="light"] .hover\:bg-gray-50:hover {
+  background-color: #eaeff8 !important;
+}

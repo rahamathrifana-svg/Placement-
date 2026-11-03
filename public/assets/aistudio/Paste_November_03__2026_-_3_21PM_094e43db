@@ -1,0 +1,6001 @@
+# Complete Logical Reasoning Question Bank – Remaining Parts
+
+Continuing from Day 8, this covers Days 8–30 and the final 50-question revision test, with MCQ options, answers and explanations.
+
+# Part 2 – Days 8–14
+
+## Day 8: Direction Sense (20 Questions)
+
+Q1. Ravi walks 5 km north and then 3 km east. In which direction is he from his starting point?
+
+A) North-West\
+B) North-East\
+C) South-East\
+D) South-West
+
+Answer: B) North-East
+
+Explanation: He moves north and then east. Both directions together place him north-east of the starting point.
+
+Q2. A person walks 10 m south and then 10 m north. Where is the person now?
+
+A) North\
+B) South\
+C) Starting point\
+D) East
+
+Answer: C) Starting point
+
+Explanation: Equal distances in opposite directions cancel each other.
+
+Q3. A man faces east and turns left. Which direction is he facing?
+
+A) North\
+B) South\
+C) West\
+D) East
+
+Answer: A) North
+
+Explanation: Left from east is north.
+
+Q4. Priya faces north. She turns right twice. Which direction is she facing?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: B) South
+
+Explanation: North → East → South.
+
+Q5. A person walks 4 km east and 3 km north. What is the shortest distance from the starting point?
+
+A) 5 km\
+B) 6 km\
+C) 7 km\
+D) 8 km
+
+Answer: A) 5 km
+
+Explanation: Use Pythagoras: \\(\sqrt{4^2+3^2}=\sqrt{25}=5\\) km.
+
+Q6. A girl faces west and turns right. Which direction does she face?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: A) North
+
+Explanation: Right from west is north.
+
+Q7. Arun walks 6 m north, 6 m east and 6 m south. Where is he from the starting point?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: C) East
+
+Explanation: North and south movements cancel. He remains 6 m east.
+
+Q8. A person faces south and turns left. Which direction is he facing?
+
+A) East\
+B) West\
+C) North\
+D) South
+
+Answer: A) East
+
+Explanation: Left from south is east.
+
+Q9. Meena walks 8 m west and 6 m north. What is her shortest distance from the starting point?
+
+A) 8 m\
+B) 10 m\
+C) 12 m\
+D) 14 m
+
+Answer: B) 10 m
+
+Explanation: \\(\sqrt{8^2+6^2}=\sqrt{100}=10\\) m.
+
+Q10. A man faces north and turns 180°. Which direction is he facing?
+
+A) East\
+B) West\
+C) South\
+D) North
+
+Answer: C) South
+
+Explanation: A 180° turn means the opposite direction.
+
+Q11. A person walks 5 km east, turns left and walks 4 km. Which direction is he from the starting point?
+
+A) North-East\
+B) South-East\
+C) North-West\
+D) South-West
+
+Answer: A) North-East
+
+Explanation: Left from east is north.
+
+Q12. A person faces west and turns 90° clockwise. Which direction does he face?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: A) North
+
+Explanation: Clockwise from west leads to north.
+
+Q13. Ravi walks 3 km south and then 4 km west. What is his shortest distance from the starting point?
+
+A) 4 km\
+B) 5 km\
+C) 6 km\
+D) 7 km
+
+Answer: B) 5 km
+
+Explanation: \\(\sqrt{3^2+4^2}=5\\) km.
+
+Q14. A person faces east and turns left, then left again. Which direction does the person face?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: D) West
+
+Explanation: East → North → West.
+
+Q15. A boy walks 7 m north and 7 m east. In which direction is he from the starting point?
+
+A) North-East\
+B) North-West\
+C) South-East\
+D) South-West
+
+Answer: A) North-East
+
+Explanation: North and east movements place him north-east.
+
+Q16. A person faces south and turns right twice. Which direction is he facing?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: A) North
+
+Explanation: South → West → North.
+
+Q17. A person walks 10 m east, 5 m west. How far is he from the starting point?
+
+A) 5 m east\
+B) 5 m west\
+C) 15 m east\
+D) 15 m west
+
+Answer: A) 5 m east
+
+Explanation: 10 − 5 = 5 m east.
+
+Q18. A man faces north-west and turns 90° clockwise. Which direction does he face?
+
+A) North-East\
+B) South-East\
+C) South-West\
+D) West
+
+Answer: A) North-East
+
+Explanation: A 90° clockwise turn from north-west points north-east.
+
+Q19. A person walks 2 km north, 2 km east, 2 km south and 2 km west. Where does the person finish?
+
+A) North\
+B) South\
+C) Starting point\
+D) East
+
+Answer: C) Starting point
+
+Explanation: The movements form a closed square.
+
+Q20. A girl faces east. She turns 270° clockwise. Which direction is she facing?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Answer: A) North
+
+Explanation: East → South (90°) → West (180°) → North (270°).
+
+## Day 9: Ranking and Order (20 Questions)
+
+Q1. Ravi is 5th from the top in a class of 20 students. What is his rank from the bottom?
+
+A) 14\
+B) 15\
+C) 16\
+D) 17
+
+Answer: C) 16
+
+Explanation: Bottom rank = Total − Top rank + 1 = 20 − 5 + 1 = 16.
+
+Q2. Priya is 8th from the left and 12th from the right. How many students are there?
+
+A) 18\
+B) 19\
+C) 20\
+D) 21
+
+Answer: B) 19
+
+Explanation: Total = 8 + 12 − 1 = 19.
+
+Q3. A student is 10th from the top and 15th from the bottom. Find the total number of students.
+
+A) 23\
+B) 24\
+C) 25\
+D) 26
+
+Answer: B) 24
+
+Explanation: 10 + 15 − 1 = 24.
+
+Q4. Arun is taller than Bala but shorter than Charan. Who is the tallest?
+
+A) Arun\
+B) Bala\
+C) Charan\
+D) Cannot determine
+
+Answer: C) Charan
+
+Explanation: Charan > Arun > Bala.
+
+Q5. Five people stand in a line. Anu is first and Ravi is last. How many people stand between them?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: B) 3
+
+Explanation: Positions 2, 3 and 4 are between them.
+
+Q6. A is older than B. B is older than C. Who is the youngest?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Answer: C) C
+
+Explanation: A > B > C in age.
+
+Q7. A person is 7th from the left in a row of 25. What is the position from the right?
+
+A) 17\
+B) 18\
+C) 19\
+D) 20
+
+Answer: C) 19
+
+Explanation: 25 − 7 + 1 = 19.
+
+Q8. Kiran ranks 12th from the top and 9th from the bottom. How many students are there?
+
+A) 19\
+B) 20\
+C) 21\
+D) 22
+
+Answer: B) 20
+
+Explanation: 12 + 9 − 1 = 20.
+
+Q9. A is 4th from the left and B is 6th from the right. There are 3 people between them, and A is to the left of B. How many people are in the row?
+
+A) 12\
+B) 13\
+C) 14\
+D) 15
+
+Answer: B) 13
+
+Explanation: B's position from the left = 4 + 3 + 1 = 8. Total = 8 + 6 − 1 = 13.
+
+Q10. In a race, Meena finishes before Rani but after Priya. Who finishes first among them?
+
+A) Meena\
+B) Rani\
+C) Priya\
+D) Cannot determine
+
+Answer: C) Priya
+
+Explanation: Priya → Meena → Rani.
+
+Q11. There are 30 students. Kumar is 20th from the top. Find his rank from the bottom.
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Answer: B) 11
+
+Explanation: 30 − 20 + 1 = 11.
+
+Q12. P is shorter than Q. R is taller than Q. Who is tallest?
+
+A) P\
+B) Q\
+C) R\
+D) Cannot determine
+
+Answer: C) R
+
+Explanation: R > Q > P.
+
+Q13. A student is 6th from the left and 10th from the right. How many students are in the row?
+
+A) 14\
+B) 15\
+C) 16\
+D) 17
+
+Answer: B) 15
+
+Explanation: 6 + 10 − 1 = 15.
+
+Q14. In a row of 18 students, Ravi is 9th from the left. What is his rank from the right?
+
+A) 9\
+B) 10\
+C) 11\
+D) 12
+
+Answer: A) 10
+
+Correction: \\(18-9+1=10\\). The correct option is B) 10.
+
+Q15. A is heavier than B. C is heavier than A. Who is lightest?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Answer: B) B
+
+Explanation: C > A > B.
+
+Q16. In a queue, Anu is 3rd and there are 5 people behind her. How many people are in the queue?
+
+A) 7\
+B) 8\
+C) 9\
+D) 10
+
+Answer: B) 8
+
+Explanation: 2 people are ahead, Anu herself, and 5 behind = 8.
+
+Q17. Ravi is 11th from the left. Priya is 14th from the left. How many people are between them?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: B) 2
+
+Explanation: 14 − 11 − 1 = 2.
+
+Q18. In a class, A ranks higher than B, B ranks higher than C, and D ranks higher than A. Who ranks highest?
+
+A) A\
+B) B\
+C) C\
+D) D
+
+Answer: D) D
+
+Explanation: D > A > B > C.
+
+Q19. A person is 15th from the left and 15th from the right. How many people are there?
+
+A) 28\
+B) 29\
+C) 30\
+D) 31
+
+Answer: B) 29
+
+Explanation: 15 + 15 − 1 = 29.
+
+Q20. In a row, A is 5th from the left and B is 5th from the right. If there are 4 people between them, how many people are in the row?
+
+A) 12\
+B) 13\
+C) 14\
+D) 15
+
+Answer: B) 13
+
+Explanation: B's left position = 5 + 4 + 1 = 10. Total = 10 + 5 − 1 = 14.
+
+Correction: The correct total is 14, option C.
+
+## Day 10: Linear Seating Arrangement (20 Questions)
+
+For these questions, use the information given in each question.
+
+Q1. Five people A, B, C, D and E sit in a row. A is at the left end. E is at the right end. Who sits in the middle if the order is A, B, C, D, E?
+
+A) A\
+B) B\
+C) C\
+D) D
+
+Answer: C) C
+
+Explanation: The third position is the middle.
+
+Q2. Four people sit in a row. P is to the left of Q. Q is to the left of R. R is to the left of S. Who sits first?
+
+A) P\
+B) Q\
+C) R\
+D) S
+
+Answer: A) P
+
+Explanation: Order is P, Q, R, S.
+
+Q3. A, B and C sit in a row. B is between A and C. Who is in the middle?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Answer: B) B
+
+Explanation: B is explicitly stated to be between A and C.
+
+Q4. Five people sit in a row. P is at the left end and Q at the right end. How many seats are between them?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: B) 3
+
+Explanation: There are three middle positions.
+
+Q5. A sits immediately to the right of B. If B sits at position 2, where does A sit?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: C) 3
+
+Explanation: Immediate right means the next position.
+
+Q6. Six people sit in a row. A is first, B is second and C is third. Who is fourth?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Answer: D) Cannot determine
+
+Explanation: The fourth position is not specified.
+
+Q7. P, Q, R and S sit in a row. Q is immediately between P and R, with P to the left of Q. Which order is correct?
+
+A) P-Q-R\
+B) R-Q-P\
+C) Q-P-R\
+D) P-R-Q
+
+Answer: A) P-Q-R
+
+Explanation: Q must be between P and R, and P is on Q's left.
+
+Q8. Five people sit in a row. A is second from the left. What is A's position from the right?
+
+A) 2nd\
+B) 3rd\
+C) 4th\
+D) 5th
+
+Answer: C) 4th
+
+Explanation: 5 − 2 + 1 = 4.
+
+Q9. A, B, C and D sit in a row. D is at the left end. A is immediately right of D. Who sits second?
+
+A) A\
+B) B\
+C) C\
+D) D
+
+Answer: A) A
+
+Explanation: D occupies first position; A occupies second.
+
+Q10. Seven people sit in a row. What is the middle position?
+
+A) 3rd\
+B) 4th\
+C) 5th\
+D) 6th
+
+Answer: B) 4th
+
+Explanation: Middle position = (7 + 1) ÷ 2 = 4.
+
+Q11. A is left of B. C is right of B. Who is in the middle among the three?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Answer: B) B
+
+Explanation: A – B – C.
+
+Q12. In a row of five, P sits at the centre. What is P's position?
+
+A) 1st\
+B) 2nd\
+C) 3rd\
+D) 4th
+
+Answer: C) 3rd
+
+Explanation: The middle of five positions is position 3.
+
+Q13. Six people sit in a row. A is at position 1 and F is at position 6. How many people sit between A and F?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Answer: B) 4
+
+Explanation: Positions 2, 3, 4 and 5.
+
+Q14. B is immediately left of C. C is immediately left of D. What is the correct order?
+
+A) B-C-D\
+B) C-B-D\
+C) D-C-B\
+D) B-D-C
+
+Answer: A) B-C-D
+
+Explanation: Follow the immediate left relationships.
+
+Q15. Five people sit in a row. A is third, B is first and C is fifth. Which positions are empty?
+
+A) 2 and 4\
+B) 1 and 2\
+C) 3 and 4\
+D) 4 and 5
+
+Answer: A) 2 and 4
+
+Explanation: Positions 1, 3 and 5 are occupied.
+
+Q16. A person sits immediately left of B. B is at the right end of a row of four. Where does that person sit?
+
+A) 1st\
+B) 2nd\
+C) 3rd\
+D) 4th
+
+Answer: C) 3rd
+
+Explanation: B is 4th; immediately left is 3rd.
+
+Q17. A, B, C, D and E sit in a row. A is left of B, B is left of C, and C is left of D. E is to the right of D. Who is at the right end?
+
+A) A\
+B) C\
+C) D\
+D) E
+
+Answer: D) E
+
+Explanation: Order A-B-C-D-E.
+
+Q18. Eight people sit in a row. What are the two middle positions?
+
+A) 3 and 4\
+B) 4 and 5\
+C) 5 and 6\
+D) 2 and 3
+
+Answer: B) 4 and 5
+
+Explanation: For an even number, middle positions are n/2 and n/2 + 1.
+
+Q19. A sits at position 4 in a row of 7. How many people are to A's left?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: B) 3
+
+Explanation: Positions 1, 2 and 3 are on A's left.
+
+Q20. P is at the left end, Q is at the right end, and R sits in the middle of five people. What is R's position?
+
+A) 2nd\
+B) 3rd\
+C) 4th\
+D) 5th
+
+Answer: B) 3rd
+
+Explanation: The middle of five seats is the third seat.
+
+## Day 11: Circular Seating Arrangement (20 Questions)
+
+Remember: In a circle, people facing the centre have left and right directions relative to their seats. For the questions below, positions are described explicitly to avoid ambiguity.
+
+Q1. Four people A, B, C and D sit around a circle in clockwise order A-B-C-D. Who sits opposite A?
+
+A) B\
+B) C\
+C) D\
+D) Cannot determine
+
+Answer: B) C
+
+Explanation: In a circle of four, opposite seats are two positions apart.
+
+Q2. Six people sit around a circle. How many people are directly opposite a particular person?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: A) 1
+
+Explanation: Every seat has exactly one opposite seat when the number of seats is even.
+
+Q3. Four friends sit around a circular table. A is opposite C. B is opposite D. Who is opposite B?
+
+A) A\
+B) C\
+C) D\
+D) Cannot determine
+
+Answer: D) D
+
+Explanation: The stated pair opposite B is D.
+
+Q4. Eight people sit around a circular table. How many positions separate a person from the person directly opposite?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: C) 4
+
+Explanation: 8 ÷ 2 = 4 positions.
+
+Q5. Six people sit in clockwise order A-B-C-D-E-F. Who is opposite A?
+
+A) B\
+B) C\
+C) D\
+D) E
+
+Answer: C) D
+
+Explanation: Three seats away is the opposite seat.
+
+Q6. Four people sit in clockwise order P-Q-R-S. Who is immediately clockwise of P?
+
+A) Q\
+B) R\
+C) S\
+D) Cannot determine
+
+Answer: A) Q
+
+Explanation: Q follows P clockwise.
+
+Q7. Six people sit in clockwise order A-B-C-D-E-F. Who is immediately anticlockwise of A?
+
+A) B\
+B) C\
+C) E\
+D) F
+
+Answer: D) F
+
+Explanation: F is immediately before A in the clockwise order.
+
+Q8. In a circle of 10 people, how many people are opposite one person?
+
+A) 1\
+B) 2\
+C) 3\
+D) 5
+
+Answer: A) 1
+
+Explanation: There is one directly opposite seat.
+
+Q9. A sits opposite B. C sits opposite D. If there are four seats, who is opposite C?
+
+A) A\
+B) B\
+C) D\
+D) Cannot determine
+
+Answer: D) D
+
+Explanation: C and D are explicitly opposite.
+
+Q10. Six people sit in a circle. What is the angle between two adjacent seats at the centre?
+
+A) 30°\
+B) 45°\
+C) 60°\
+D) 90°
+
+Answer: C) 60°
+
+Explanation: 360° ÷ 6 = 60°.
+
+Q11. Eight people sit around a circle. What is the angle between adjacent seats?
+
+A) 30°\
+B) 45°\
+C) 60°\
+D) 90°
+
+Answer: B) 45°
+
+Explanation: 360° ÷ 8 = 45°.
+
+Q12. Five people sit in a circle. How many people are immediately adjacent to each person?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: Each person has one neighbour on each side.
+
+Q13. Seven people sit in a circle. How many people are directly opposite one person?
+
+A) 0\
+B) 1\
+C) 2\
+D) 3
+
+Answer: A) 0
+
+Explanation: With an odd number of equally spaced seats, there is no seat exactly opposite.
+
+Q14. Six people sit clockwise A-B-C-D-E-F. Which pair is adjacent?
+
+A) A and D\
+B) B and E\
+C) C and D\
+D) A and C
+
+Answer: C) C and D
+
+Explanation: C and D are next to each other.
+
+Q15. Ten people sit around a circle. What is the angle between adjacent seats?
+
+A) 30°\
+B) 36°\
+C) 45°\
+D) 60°
+
+Answer: B) 36°
+
+Explanation: 360° ÷ 10 = 36°.
+
+Q16. In a clockwise arrangement A-B-C-D-E-F, who is two seats clockwise from A?
+
+A) B\
+B) C\
+C) D\
+D) E
+
+Answer: B) C
+
+Explanation: A → B → C.
+
+Q17. In a clockwise arrangement A-B-C-D-E-F, who is two seats anticlockwise from A?
+
+A) B\
+B) E\
+C) F\
+D) D
+
+Answer: B) E
+
+Explanation: A → F → E.
+
+Q18. A person faces the centre of a circular table. Which direction is to their left?
+
+A) Clockwise\
+B) Anticlockwise\
+C) North\
+D) South
+
+Answer: A) Clockwise
+
+Explanation: Facing the centre, the person's left is clockwise around the table.
+
+Q19. A person faces outward from a circular table. Which direction is to their left?
+
+A) Clockwise\
+B) Anticlockwise\
+C) North\
+D) South
+
+Answer: B) Anticlockwise
+
+Explanation: Facing outward reverses the left-right relationship.
+
+Q20. Twelve people sit around a circle. How many positions separate opposite people?
+
+A) 4\
+B) 5\
+C) 6\
+D) 7
+
+Answer: C) 6
+
+Explanation: 12 ÷ 2 = 6.
+
+## Day 12: Syllogism (20 Questions)
+
+Q1. Statements: All cats are animals. All animals are living beings.
+
+Conclusion: All cats are living beings.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Cats are included in animals, and animals are included in living beings. Therefore cats are living beings.
+
+Q2. Statements: All roses are flowers. Some flowers are red.
+
+Conclusion: Some roses are red.
+
+A) Follows\
+B) Does not follow\
+C) Both\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: The red flowers may or may not be roses.
+
+Q3. Statements: No dogs are cats. All pugs are dogs.
+
+Conclusion: No pugs are cats.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Pugs belong to dogs, and dogs cannot be cats.
+
+Q4. Statements: All pens are stationery. All pencils are stationery.
+
+Conclusion: All pens are pencils.
+
+A) Follows\
+B) Does not follow\
+C) Both\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: Both belong to stationery, but they are not necessarily the same group.
+
+Q5. Statements: Some students are athletes. All athletes are healthy.
+
+Conclusion: Some students are healthy.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: The students who are athletes must be healthy.
+
+Q6. Statements: All birds have wings. A sparrow is a bird.
+
+Conclusion: A sparrow has wings.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: A sparrow belongs to the bird group.
+
+Q7. Statements: Some books are novels. All novels are interesting.
+
+Conclusion: Some books are interesting.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: The books that are novels are interesting.
+
+Q8. Statements: No apples are bananas. Some fruits are apples.
+
+Conclusion: Some fruits are not bananas.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Apples are not bananas, so the fruits that are apples are not bananas.
+
+Q9. Statements: All doctors are educated. Some educated people are writers.
+
+Conclusion: Some doctors are writers.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: The writers may be different educated people.
+
+Q10. Statements: Some cars are electric. All electric vehicles are quiet.
+
+Conclusion: Some cars are quiet.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: The electric cars are quiet.
+
+Q11. Statements: All mangoes are fruits. No fruits are stones.
+
+Conclusion: No mangoes are stones.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Mangoes belong to fruits, and fruits are not stones.
+
+Q12. Statements: Some pens are blue. Some blue things are expensive.
+
+Conclusion: Some pens are expensive.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: The blue things that are expensive may not be pens.
+
+Q13. Statements: All laptops are computers. Some computers are expensive.
+
+Conclusion: Some laptops are expensive.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: Expensive computers may be different from laptops.
+
+Q14. Statements: No fish are birds. All sharks are fish.
+
+Conclusion: No sharks are birds.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Sharks are fish, and fish are not birds.
+
+Q15. Statements: All squares are rectangles. All rectangles are shapes.
+
+Conclusion: All squares are shapes.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Square → Rectangle → Shape.
+
+Q16. Statements: Some teachers are women. All women are kind.
+
+Conclusion: Some teachers are kind.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: The teachers who are women are kind.
+
+Q17. Statements: All buses are vehicles. Some vehicles are red.
+
+Conclusion: Some buses are red.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: Red vehicles may not be buses.
+
+Q18. Statements: No teachers are lazy. Ravi is a teacher.
+
+Conclusion: Ravi is not lazy.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Ravi belongs to the teacher group, which has no lazy members.
+
+Q19. Statements: Some fruits are sweet. Some sweet things are cold.
+
+Conclusion: Some fruits are cold.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B) Does not follow
+
+Explanation: The sweet fruits and sweet cold things may be different items.
+
+Q20. Statements: All engineers are graduates. All graduates are educated.
+
+Conclusion: All engineers are educated.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Engineer → Graduate → Educated.
+
+## Day 13: Venn Diagrams (20 Questions)
+
+Q1. Which diagram best represents Dogs, Animals and Living Beings?
+
+A) Three separate circles\
+B) Dogs inside Animals inside Living Beings\
+C) Animals inside Dogs\
+D) Dogs and Animals separate
+
+Answer: B
+
+Explanation: Every dog is an animal, and every animal is a living being.
+
+Q2. Which diagram represents Apples, Mangoes and Fruits?
+
+A) Apples and mangoes are separate groups inside Fruits\
+B) Fruits inside Apples\
+C) All three separate\
+D) Mangoes inside Apples
+
+Answer: A
+
+Explanation: Apples and mangoes are different kinds of fruits.
+
+Q3. In a group of 30 students, 18 like tea, 15 like coffee and 5 like both. How many like at least one?
+
+A) 25\
+B) 28\
+C) 30\
+D) 33
+
+Answer: B) 28
+
+Explanation: 18 + 15 − 5 = 28.
+
+Q4. In a group of 40 people, 20 like cricket, 15 like football and 5 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: B) 10
+
+Explanation: At least one = 20 + 15 − 5 = 30. Neither = 40 − 30 = 10.
+
+Q5. Which diagram represents Men, Women and Human Beings?
+
+A) Men and Women are separate groups inside Human Beings\
+B) Human Beings inside Men\
+C) Women inside Men\
+D) All separate
+
+Answer: A
+
+Explanation: Men and women are separate categories of human beings.
+
+Q6. 25 students like Maths, 20 like Science and 10 like both. How many like only Maths?
+
+A) 10\
+B) 15\
+C) 20\
+D) 25
+
+Answer: B) 15
+
+Explanation: Only Maths = 25 − 10 = 15.
+
+Q7. In a group of 50, 30 like tea, 25 like coffee and 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: A) 5
+
+Explanation: At least one = 30 + 25 − 10 = 45. Neither = 50 − 45 = 5.
+
+Q8. Which diagram best represents Teachers, Women and Doctors when some members may overlap?
+
+A) Three circles that may overlap\
+B) Three separate circles\
+C) One circle inside another\
+D) One straight line
+
+Answer: A
+
+Explanation: A person may be a teacher, woman and doctor at the same time.
+
+Q9. 40 students: 22 like English, 18 like Tamil and 8 like both. How many like only English?
+
+A) 12\
+B) 14\
+C) 16\
+D) 18
+
+Answer: B) 14
+
+Explanation: 22 − 8 = 14.
+
+Q10. 60 people: 35 like movies, 30 like music and 15 like both. How many like at least one?
+
+A) 45\
+B) 50\
+C) 55\
+D) 60
+
+Answer: C) 50
+
+Correction: 35 + 30 − 15 = 50, so the correct option is B) 50.
+
+Q11. Which diagram represents Squares, Rectangles and Quadrilaterals?
+
+A) Squares inside Rectangles inside Quadrilaterals\
+B) Rectangles inside Squares\
+C) All separate\
+D) Quadrilaterals inside Squares
+
+Answer: A
+
+Explanation: Every square is a rectangle, and every rectangle is a quadrilateral.
+
+Q12. 100 students: 60 study Python, 40 study Java and 20 study both. How many study only Python?
+
+A) 20\
+B) 30\
+C) 40\
+D) 60
+
+Answer: C) 40
+
+Explanation: 60 − 20 = 40.
+
+Q13. 50 people: 25 like tea, 20 like coffee and 5 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: B) 10
+
+Explanation: At least one = 25 + 20 − 5 = 40. Neither = 50 − 40 = 10.
+
+Q14. Which diagram best represents Cars, Bikes and Vehicles?
+
+A) Cars and Bikes separate inside Vehicles\
+B) Vehicles inside Cars\
+C) Cars inside Bikes\
+D) Three separate groups
+
+Answer: A
+
+Explanation: Cars and bikes are different types of vehicles.
+
+Q15. In a class of 40, 25 like cricket and 20 like football. If 10 like both, how many like only football?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: C) 10
+
+Correction: Only football = 20 − 10 = 10, option B.
+
+Q16. 70 students: 40 like Maths, 35 like Science and 15 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: B) 10
+
+Explanation: At least one = 40 + 35 − 15 = 60. Neither = 70 − 60 = 10.
+
+Q17. Which diagram represents Birds, Sparrows and Animals?
+
+A) Sparrows inside Birds, Birds inside Animals\
+B) Birds inside Sparrows\
+C) Animals inside Birds\
+D) Three separate circles
+
+Answer: A
+
+Explanation: Sparrows are birds, and birds are animals.
+
+Q18. 80 students: 45 like programming, 35 like design and 20 like both. How many like only design?
+
+A) 10\
+B) 15\
+C) 20\
+D) 25
+
+Answer: B) 15
+
+Explanation: 35 − 20 = 15.
+
+Q19. 100 people: 55 like A, 45 like B and 25 like both. How many like neither?
+
+A) 15\
+B) 20\
+C) 25\
+D) 30
+
+Answer: C) 25
+
+Explanation: At least one = 55 + 45 − 25 = 75. Neither = 25.
+
+Q20. Which diagram represents Students, Girls and Boys?
+
+A) Girls and Boys are separate groups within Students\
+B) Students inside Girls\
+C) Boys inside Girls\
+D) All separate
+
+Answer: A
+
+Explanation: Girls and boys are categories of students.
+
+## Day 14: Sunday Test 2 – Mixed Reasoning (30 Questions)
+
+Target score: 24/30
+
+Q1. A person faces north and turns right. Which direction does he face?
+
+A) West\
+B) East\
+C) South\
+D) North
+
+Q2. Ravi is 5th from the top in a group of 25. Find his rank from the bottom.
+
+A) 19\
+B) 20\
+C) 21\
+D) 22
+
+Q3. A is to the left of B and B is to the left of C. Who is in the middle?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Q4. In a circle of 8 people, how many positions away is the opposite person?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Q5. All roses are flowers. All flowers are plants. Conclusion: All roses are plants.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q6. In a group of 30, 20 like tea, 15 like coffee and 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q7. A person walks 3 km east and 4 km north. Find the shortest distance.
+
+A) 4 km\
+B) 5 km\
+C) 6 km\
+D) 7 km
+
+Q8. A person is 10th from the left and 12th from the right. Find the total.
+
+A) 20\
+B) 21\
+C) 22\
+D) 23
+
+Q9. P is immediately right of Q. If Q is at position 3, where is P?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Q10. In a circular arrangement A-B-C-D-E-F clockwise, who is opposite A?
+
+A) B\
+B) C\
+C) D\
+D) E
+
+Q11. Some students are singers. All singers are talented. Conclusion: Some students are talented.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q12. 50 students: 30 like Maths, 25 like Science and 10 like both. How many like only Maths?
+
+A) 15\
+B) 20\
+C) 25\
+D) 30
+
+Q13. A faces west and turns left. Which direction?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Q14. A person is 7th from the right in a row of 20. Find the position from the left.
+
+A) 12\
+B) 13\
+C) 14\
+D) 15
+
+Q15. All cats are animals. No animals are plants. Conclusion: No cats are plants.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q16. 6 people sit around a circle. What is the angle between adjacent seats?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Q17. 40 people: 25 like cricket, 20 like football and 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q18. A walks 5 m north and 5 m south. Where does A finish?
+
+A) North\
+B) South\
+C) Starting point\
+D) East
+
+Q19. Five people sit in a row. The middle position is:
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Q20. In a circle, a person faces outward. Which direction is their left around the table?
+
+A) Clockwise\
+B) Anticlockwise\
+C) North\
+D) South
+
+Q21. All laptops are computers. Some computers are expensive. Conclusion: All laptops are expensive.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q22. 30 people: 15 like tea, 12 like coffee and 5 like both. How many like at least one?
+
+A) 20\
+B) 22\
+C) 25\
+D) 27
+
+Q23. A is taller than B. C is taller than A. Who is tallest?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Q24. A person faces south and turns 180°. Which direction?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Q25. 12 people sit in a circle. How many positions away is the opposite seat?
+
+A) 4\
+B) 5\
+C) 6\
+D) 7
+
+Q26. A is 6th from the left and 8th from the right. Total number?
+
+A) 12\
+B) 13\
+C) 14\
+D) 15
+
+Q27. No birds are mammals. All bats are mammals. Conclusion: No bats are birds.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q28. In a class of 60, 35 like English, 30 like Tamil and 15 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q29. A person walks 6 m west and 8 m south. Find the shortest distance.
+
+A) 8 m\
+B) 10 m\
+C) 12 m\
+D) 14 m
+
+Q30. In a row of 9 people, what is the middle position?
+
+A) 4th\
+B) 5th\
+C) 6th\
+D) 7th
+
+### Sunday Test 2 – Answer Key
+
+| Q  | Answer | Explanation                                                  |
+| -- | ------ | ------------------------------------------------------------ |
+| 1  | B      | Right from north is east                                     |
+| 2  | C      | 25 − 5 + 1 = 21                                              |
+| 3  | B      | A-B-C                                                        |
+| 4  | C      | 8 ÷ 2 = 4                                                    |
+| 5  | A      | Rose → Flower → Plant                                        |
+| 6  | A      | 30 − (20 + 15 − 10) = 5                                      |
+| 7  | B      | 3-4-5 triangle                                               |
+| 8  | B      | 10 + 12 − 1 = 21                                             |
+| 9  | C      | Position 4                                                   |
+| 10 | C      | Three seats away                                             |
+| 11 | A      | Some singers are students and talented                       |
+| 12 | B      | 30 − 10 = 20                                                 |
+| 13 | B      | Left from west is south                                      |
+| 14 | B      | 20 − 7 + 1 = 14                                              |
+| 15 | A      | Cats are animals, not plants                                 |
+| 16 | B      | 360 ÷ 6 = 60°                                                |
+| 17 | A      | 40 − (25 + 20 − 10) = 5                                      |
+| 18 | C      | Opposite movements cancel                                    |
+| 19 | C      | Third position                                               |
+| 20 | B      | Outward-facing left is anticlockwise                         |
+| 21 | B      | Some computers being expensive doesn't prove all laptops are |
+| 22 | B      | 15 + 12 − 5 = 22                                             |
+| 23 | C      | C > A > B                                                    |
+| 24 | A      | Opposite of south is north                                   |
+| 25 | C      | 12 ÷ 2 = 6                                                   |
+| 26 | B      | 6 + 8 − 1 = 13                                               |
+| 27 | A      | Bats are mammals; mammals are not birds                      |
+| 28 | B      | 60 − (35 + 30 − 15) = 10                                     |
+| 29 | B      | 6-8-10 triangle                                              |
+| 30 | B      | (9 + 1) ÷ 2 = 5                                              |
+
+# Part 3 – Days 15–21
+
+## Day 15: Statement and Conclusion (20 Questions)
+
+Choose whether the conclusion follows from the statement.
+
+Q1. Statement: All students must carry their identity cards to enter the college.
+
+Conclusion: Students without identity cards may be denied entry.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: The statement makes the identity card compulsory for entry.
+
+Q2. Statement: Some employees work from home.
+
+Conclusion: All employees work from home.
+
+A) Follows\
+B) Does not follow\
+C) Both\
+D) None
+
+Answer: B
+
+Explanation: Some does not mean all.
+
+Q3. Statement: Every registered candidate receives an application number.
+
+Conclusion: A registered candidate will receive an application number.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: It directly repeats the given information.
+
+Q4. Statement: The library is closed on Sundays.
+
+Conclusion: Students cannot borrow books from the library on Sundays.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: If the library is closed, borrowing books there is not possible.
+
+Q5. Statement: Many students use online learning platforms.
+
+Conclusion: Every student uses an online learning platform.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Many does not mean every.
+
+Q6. Statement: No vehicles are allowed inside the park.
+
+Conclusion: Cars are not allowed inside the park.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Cars are vehicles.
+
+Q7. Statement: The company provides free training to selected graduates.
+
+Conclusion: Every graduate receives free training.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Only selected graduates receive the training.
+
+Q8. Statement: All applications received before Friday will be reviewed.
+
+Conclusion: Applications received on Thursday will be reviewed, assuming they are received before Friday.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Thursday is before Friday.
+
+Q9. Statement: Some books in the store are expensive.
+
+Conclusion: Some books in the store are not expensive.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: The statement does not tell us the price of the remaining books.
+
+Q10. Statement: All candidates who pass the written test are invited to the interview.
+
+Conclusion: Passing the written test leads to an interview invitation.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: It directly follows from the rule.
+
+Q11. Statement: The bus service is unavailable due to heavy rain.
+
+Conclusion: The bus service is unavailable today because of heavy rain.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: The cause is explicitly stated.
+
+Q12. Statement: Some software developers know Python.
+
+Conclusion: All software developers know Python.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Some does not mean all.
+
+Q13. Statement: Students must submit their assignments by Monday.
+
+Conclusion: Assignments submitted after Monday may be late.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Monday is the deadline.
+
+Q14. Statement: No mobile phones are permitted during the examination.
+
+Conclusion: Candidates cannot use mobile phones during the examination.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Mobile phones are prohibited.
+
+Q15. Statement: Some employees received a promotion.
+
+Conclusion: All employees received a promotion.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Some employees does not mean all employees.
+
+Q16. Statement: Every student who completes the course receives a certificate.
+
+Conclusion: Completing the course qualifies a student to receive a certificate.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: The certificate is given to every course completer.
+
+Q17. Statement: The company has offices in Chennai and Bengaluru.
+
+Conclusion: The company has an office in Chennai.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Chennai is explicitly mentioned.
+
+Q18. Statement: Only shortlisted candidates will attend the final interview.
+
+Conclusion: Every candidate will attend the final interview.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Only shortlisted candidates can attend.
+
+Q19. Statement: The website requires an internet connection to access online lessons.
+
+Conclusion: Without an internet connection, online lessons cannot be accessed through the website.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A
+
+Explanation: Internet access is required.
+
+Q20. Statement: Some candidates failed the aptitude test.
+
+Conclusion: No candidates passed the aptitude test.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: B
+
+Explanation: Some failed does not mean everyone failed.
+
+## Day 16: Statement and Assumption (20 Questions)
+
+Choose the assumption that is necessary or most reasonably implied by the statement.
+
+Q1. Statement: "Use a helmet while riding a bike."
+
+Assumption: Wearing a helmet helps protect the rider.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The instruction is based on the protective purpose of helmets.
+
+Q2. Statement: "Join our online course to improve your programming skills."
+
+Assumption: The course can help learners improve programming skills.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The advertisement assumes the course teaches useful programming skills.
+
+Q3. Statement: "Please switch off the lights before leaving the room."
+
+Assumption: Lights left on consume electricity.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Switching off lights saves electricity.
+
+Q4. Statement: "Apply before the last date to avoid rejection."
+
+Assumption: Applications submitted after the deadline may be rejected.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The warning depends on a deadline.
+
+Q5. Statement: "Buy this phone because it has a long battery life."
+
+Assumption: Buyers may value longer battery life.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Battery life is being used as a selling point.
+
+Q6. Statement: "Students should practise coding every day."
+
+Assumption: Regular practice can improve coding skills.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Daily practice is recommended because it can improve ability.
+
+Q7. Statement: "Carry your college ID card during the industrial visit."
+
+Assumption: The ID card may be needed to identify students.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The instruction assumes the ID card has an identification purpose.
+
+Q8. Statement: "Use strong passwords to protect your online account."
+
+Assumption: Weak passwords can make accounts less secure.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Strong passwords are recommended for security.
+
+Q9. Statement: "Book your train ticket early to get a seat."
+
+Assumption: Seats may become unavailable closer to the journey date.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Early booking is suggested because availability may reduce.
+
+Q10. Statement: "Read the instructions before starting the examination."
+
+Assumption: Instructions provide information needed for the examination.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The advice assumes the instructions are useful.
+
+Q11. Statement: "The company introduced flexible working hours."
+
+Assumption: Employees may benefit from flexible working hours.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Such a policy is generally introduced to provide flexibility.
+
+Q12. Statement: "Do not share your OTP with anyone."
+
+Assumption: Sharing an OTP can create a security risk.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: OTPs are private authentication details.
+
+Q13. Statement: "Students are advised to update their resumes before placement interviews."
+
+Assumption: Interviewers may use resumes to understand candidates.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: A resume is an important interview document.
+
+Q14. Statement: "Install antivirus software to reduce malware risks."
+
+Assumption: Antivirus software can help detect or prevent some malware threats.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The recommendation depends on antivirus protection being useful.
+
+Q15. Statement: "Register early for the workshop because seats are limited."
+
+Assumption: The workshop has a limited number of seats.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The statement directly says seats are limited.
+
+Q16. Statement: "Use public transport to reduce traffic congestion."
+
+Assumption: Fewer private vehicles on the road can help reduce congestion.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: The suggestion relies on reducing individual vehicle use.
+
+Q17. Statement: "Attend the mock interview to prepare for the real interview."
+
+Assumption: Mock interviews provide useful interview practice.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Mock interviews simulate real interviews.
+
+Q18. Statement: "Keep a backup of your project files."
+
+Assumption: Project files may be lost or damaged.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Backups help recover data if the original files are lost.
+
+Q19. Statement: "Students must complete the prerequisite course before enrolling in the advanced course."
+
+Assumption: The prerequisite course provides knowledge needed for the advanced course.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: A prerequisite is required preparation.
+
+Q20. Statement: "The shop is offering a discount this weekend."
+
+Assumption: Some customers may be attracted by discounts.
+
+A) Assumed\
+B) Not assumed\
+C) Contradicted\
+D) None
+
+Answer: A
+
+Explanation: Discounts are commonly used to attract buyers.
+
+## Day 17: Statement and Argument (20 Questions)
+
+Choose the strongest argument.
+
+Q1. Should students learn basic computer skills?
+
+A) Yes, they are useful in education and employment.\
+B) No, computers are expensive.\
+C) Only teachers should learn computers.\
+D) Computers are difficult.
+
+Answer: A
+
+Explanation: It directly explains the practical value of computer skills.
+
+Q2. Should smoking be prohibited in public places?
+
+A) Yes, it can affect the health of others.\
+B) No, some people enjoy smoking.\
+C) Everyone should smoke.\
+D) Smoking is fashionable.
+
+Answer: A
+
+Explanation: Protecting public health is a strong argument.
+
+Q3. Should colleges conduct placement training?
+
+A) Yes, it helps students prepare for employment.\
+B) No, students should never work.\
+C) Only final-year students should study.\
+D) Training is always useless.
+
+Answer: A
+
+Explanation: Placement training develops job-related skills.
+
+Q4. Should plastic bags be reduced?
+
+A) Yes, plastic waste can harm the environment.\
+B) No, plastic bags are colourful.\
+C) Everyone likes plastic.\
+D) Plastic is always harmless.
+
+Answer: A
+
+Explanation: Environmental protection is a valid reason.
+
+Q5. Should students read books regularly?
+
+A) Yes, reading improves knowledge and language skills.\
+B) No, books are heavy.\
+C) Reading is only for children.\
+D) Books should never be used.
+
+Answer: A
+
+Explanation: Reading provides educational benefits.
+
+Q6. Should employees receive cybersecurity training?
+
+A) Yes, it can help them recognise security threats.\
+B) No, passwords are unnecessary.\
+C) Only IT managers need security.\
+D) Computers never face attacks.
+
+Answer: A
+
+Explanation: Training helps reduce security mistakes.
+
+Q7. Should public parks be maintained?
+
+A) Yes, they provide spaces for recreation and exercise.\
+B) No, parks are green.\
+C) Only tourists use parks.\
+D) Parks have no purpose.
+
+Answer: A
+
+Explanation: Parks provide public benefits.
+
+Q8. Should students practise aptitude questions for placements?
+
+A) Yes, aptitude tests are used in many recruitment processes.\
+B) No, aptitude is never tested.\
+C) Only managers need aptitude.\
+D) Questions are always useless.
+
+Answer: A
+
+Explanation: Aptitude practice prepares students for screening tests.
+
+Q9. Should traffic rules be followed?
+
+A) Yes, they help improve road safety.\
+B) No, roads are wide.\
+C) Only drivers should know rules.\
+D) Rules are unnecessary.
+
+Answer: A
+
+Explanation: Traffic rules help prevent accidents.
+
+Q10. Should schools teach financial literacy?
+
+A) Yes, it helps students make informed money decisions.\
+B) No, money is not important.\
+C) Only banks need financial knowledge.\
+D) Students should avoid saving.
+
+Answer: A
+
+Explanation: Financial literacy is useful in everyday life.
+
+Q11. Should companies encourage teamwork?
+
+A) Yes, collaboration can help solve complex tasks.\
+B) No, employees should never communicate.\
+C) Only one employee should work.\
+D) Teamwork is always harmful.
+
+Answer: A
+
+Explanation: Teamwork allows people to share skills and ideas.
+
+Q12. Should students create project portfolios?
+
+A) Yes, portfolios demonstrate practical skills and work.\
+B) No, projects are unnecessary.\
+C) Only experienced workers need portfolios.\
+D) Portfolios cannot show skills.
+
+Answer: A
+
+Explanation: A portfolio gives evidence of practical ability.
+
+Q13. Should cities improve public transport?
+
+A) Yes, reliable public transport can reduce dependence on private vehicles.\
+B) No, buses have wheels.\
+C) Only tourists use transport.\
+D) Public transport has no use.
+
+Answer: A
+
+Explanation: Better public transport can reduce road congestion.
+
+Q14. Should students learn communication skills?
+
+A) Yes, communication is important in interviews and workplaces.\
+B) No, communication is useless.\
+C) Only writers need communication.\
+D) Speaking is always unnecessary.
+
+Answer: A
+
+Explanation: Communication is useful in professional situations.
+
+Q15. Should companies provide employee feedback?
+
+A) Yes, feedback can help employees improve their performance.\
+B) No, employees never improve.\
+C) Feedback should always be hidden.\
+D) Only customers can give feedback.
+
+Answer: A
+
+Explanation: Constructive feedback supports improvement.
+
+Q16. Should students learn programming?
+
+A) Yes, programming develops problem-solving and technical skills.\
+B) No, computers cannot run programs.\
+C) Only scientists can code.\
+D) Programming has no practical use.
+
+Answer: A
+
+Explanation: Programming is useful for developing software and solving problems.
+
+Q17. Should cities plant more trees?
+
+A) Yes, trees provide shade and support the environment.\
+B) No, trees are green.\
+C) Trees should be removed everywhere.\
+D) Trees have no benefits.
+
+Answer: A
+
+Explanation: Trees provide environmental and public-health benefits.
+
+Q18. Should candidates research a company before an interview?
+
+A) Yes, it helps them understand the role and organisation.\
+B) No, candidates should know nothing.\
+C) Only the interviewer needs information.\
+D) Company information is always irrelevant.
+
+Answer: A
+
+Explanation: Research helps candidates prepare relevant answers.
+
+Q19. Should online accounts use two-factor authentication?
+
+A) Yes, it adds another layer of account security.\
+B) No, passwords should be shared.\
+C) It makes all accounts public.\
+D) It removes the need for security.
+
+Answer: A
+
+Explanation: Two-factor authentication adds a verification step.
+
+Q20. Should colleges provide career guidance?
+
+A) Yes, it can help students understand career options.\
+B) No, students should never plan careers.\
+C) Only graduates need guidance.\
+D) Career guidance has no value.
+
+Answer: A
+
+Explanation: Career guidance supports informed decisions.
+
+## Day 18: Data Sufficiency (20 Questions)
+
+For each question, choose:
+
+- A) Statement I alone is sufficient.
+- B) Statement II alone is sufficient.
+- C) Both statements together are sufficient, but neither alone is sufficient.
+- D) Even both statements together are insufficient.
+
+Q1. What is Ravi's age?
+
+I. Ravi is 5 years older than Arun.\
+II. Arun is 20 years old.
+
+Answer: C
+
+Explanation: Together: Ravi = 20 + 5 = 25. Neither alone gives Ravi's age.
+
+Q2. What is the value of x?
+
+I. x + 5 = 12.\
+II. x is a positive integer.
+
+Answer: A
+
+Explanation: Statement I gives x = 7 directly.
+
+Q3. Is a number even?
+
+I. The number is divisible by 2.\
+II. The number is greater than 10.
+
+Answer: A
+
+Explanation: Divisibility by 2 establishes that it is even.
+
+Q4. What is the total number of students?
+
+I. 10 students are girls.\
+II. 15 students are boys.
+
+Answer: C
+
+Explanation: Together: 10 + 15 = 25.
+
+Q5. Is Ravi taller than Arun?
+
+I. Ravi is 170 cm tall.\
+II. Arun is 165 cm tall.
+
+Answer: C
+
+Explanation: Comparing both heights gives the answer.
+
+Q6. What is the value of y?
+
+I. y × 3 = 21.\
+II. y is an integer.
+
+Answer: A
+
+Explanation: Statement I gives y = 7.
+
+Q7. Which direction is a person facing?
+
+I. The person is facing north.\
+II. The person turns right.
+
+Answer: A
+
+Explanation: Statement I alone gives the direction. Statement II alone does not.
+
+Q8. What is the sum of two numbers?
+
+I. The first number is 10.\
+II. The second number is 15.
+
+Answer: C
+
+Explanation: Together: 10 + 15 = 25.
+
+Q9. Is the number divisible by 5?
+
+I. The number ends in 0.\
+II. The number is even.
+
+Answer: A
+
+Explanation: A number ending in 0 is divisible by 5.
+
+Q10. What is the area of a rectangle?
+
+I. Length is 10 cm.\
+II. Breadth is 5 cm.
+
+Answer: C
+
+Explanation: Together: Area = 10 × 5 = 50 cm².
+
+Q11. What is the value of x?
+
+I. x − 8 = 4.\
+II. x is greater than 0.
+
+Answer: A
+
+Explanation: Statement I gives x = 12.
+
+Q12. How many days are in the month?
+
+I. The month is February.\
+II. The year is a leap year.
+
+Answer: C
+
+Explanation: Together, February in a leap year has 29 days.
+
+Q13. What is the distance travelled?
+
+I. Speed is 60 km/h.\
+II. Time is 2 hours.
+
+Answer: C
+
+Explanation: Distance = Speed × Time = 60 × 2 = 120 km.
+
+Q14. Is a triangle equilateral?
+
+I. All three sides are equal.\
+II. One angle is 60°.
+
+Answer: A
+
+Explanation: Three equal sides define an equilateral triangle.
+
+Q15. What is the average of two numbers?
+
+I. Their sum is 30.\
+II. There are exactly two numbers.
+
+Answer: C
+
+Explanation: Average = 30 ÷ 2 = 15.
+
+Q16. What is the value of a?
+
+I. a + b = 10.\
+II. b = 4.
+
+Answer: C
+
+Explanation: Together, a = 10 − 4 = 6.
+
+Q17. Is a person older than 18?
+
+I. The person is 20 years old.\
+II. The person is a college student.
+
+Answer: A
+
+Explanation: Statement I alone establishes the person's age.
+
+Q18. What is the perimeter of a square?
+
+I. One side is 5 cm.\
+II. All sides are equal.
+
+Answer: A
+
+Explanation: Perimeter = 4 × 5 = 20 cm.
+
+Q19. What is the product of two numbers?
+
+I. Their sum is 10.\
+II. Their difference is 2.
+
+Answer: C
+
+Explanation: Together the numbers are 6 and 4; product = 24.
+
+Q20. What is the current day of the week?
+
+I. Yesterday was Monday.\
+II. Tomorrow is Wednesday.
+
+Answer: A
+
+Explanation: If yesterday was Monday, today is Tuesday. Statement II also gives Tuesday, but Statement I alone is sufficient.
+
+## Day 19: Logical Puzzles (20 Questions)
+
+Q1. There are three boxes labelled Apples, Oranges and Mixed. All labels are incorrect. You can take one fruit from one box. Which box should you choose first to identify all boxes?
+
+A) Apples\
+B) Oranges\
+C) Mixed\
+D) Any box
+
+Answer: C) Mixed
+
+Explanation: The box labelled Mixed cannot contain a mixture because all labels are wrong. One fruit identifies its actual contents, and the other two can then be deduced.
+
+Q2. A farmer has 17 sheep. All but 9 run away. How many remain?
+
+A) 8\
+B) 9\
+C) 17\
+D) 26
+
+Answer: B) 9
+
+Explanation: "All but 9" means 9 remain.
+
+Q3. Two fathers and two sons go fishing. They catch three fish, and each person gets one fish. How many people are there?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Answer: B) 3
+
+Explanation: They are grandfather, father and son.
+
+Q4. A clock shows 3:00. What is the angle between its hands?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 180°
+
+Answer: C) 90°
+
+Explanation: At 3:00, the hands are perpendicular.
+
+Q5. A man has four daughters. Each daughter has one brother. How many children does he have?
+
+A) 4\
+B) 5\
+C) 8\
+D) 9
+
+Answer: B) 5
+
+Explanation: All four daughters share the same brother.
+
+Q6. There are 10 candles. Two burn out. How many candles remain?
+
+A) 2\
+B) 8\
+C) 10\
+D) 12
+
+Answer: C) 10
+
+Explanation: The candles still physically remain, even if two have burned out.
+
+Q7. A basket has 5 apples. Five children each take one apple, but one apple remains in the basket. How?
+
+A) One child takes the basket with the apple\
+B) One child takes two apples\
+C) Two children share an apple\
+D) Impossible
+
+Answer: A
+
+Explanation: The fifth child takes the basket containing the final apple.
+
+Q8. A man walks in the rain without an umbrella, but his hair does not get wet. Why?
+
+A) He runs fast\
+B) He is bald\
+C) It is not raining\
+D) He wears a hat
+
+Answer: B) He is bald
+
+Explanation: He has no hair to get wet.
+
+Q9. Which is heavier: 1 kg of iron or 1 kg of cotton?
+
+A) Iron\
+B) Cotton\
+C) Both equal\
+D) Cannot determine
+
+Answer: C) Both equal
+
+Explanation: Both weigh 1 kg.
+
+Q10. A train has 10 compartments. If each compartment has 5 passengers, how many passengers are there?
+
+A) 40\
+B) 45\
+C) 50\
+D) 55
+
+Answer: C) 50
+
+Explanation: 10 × 5 = 50.
+
+Q11. A farmer has 20 cows. All but 5 die. How many are alive?
+
+A) 5\
+B) 15\
+C) 20\
+D) 25
+
+Answer: A) 5
+
+Explanation: All but 5 means 5 are left alive.
+
+Q12. You have 3 switches outside a room and one bulb inside. You can enter the room only once. How can you identify the correct switch?
+
+A) Turn all switches on\
+B) Use heat from the bulb and its light\
+C) Guess randomly\
+D) Switch them all off
+
+Answer: B
+
+Explanation: Turn one switch on for a while, turn it off, then turn another on. Enter the room: lit bulb = second switch; unlit but warm = first switch; unlit and cool = third switch.
+
+Q13. If 5 machines make 5 items in 5 minutes, how long do 100 machines take to make 100 items?
+
+A) 5 minutes\
+B) 10 minutes\
+C) 20 minutes\
+D) 100 minutes
+
+Answer: A) 5 minutes
+
+Explanation: Each machine makes one item in 5 minutes. 100 machines make 100 items in the same 5 minutes.
+
+Q14. A doctor gives you 3 tablets and says take one every 30 minutes. How long will it take to finish all tablets?
+
+A) 30 minutes\
+B) 60 minutes\
+C) 90 minutes\
+D) 120 minutes
+
+Answer: B) 60 minutes
+
+Explanation: Take the first immediately, second after 30 minutes, third after 60 minutes.
+
+Q15. A family has a mother, father and two children. How many people are there?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Answer: B) 4
+
+Explanation: 2 parents + 2 children = 4.
+
+Q16. If yesterday was Sunday, what day is tomorrow?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Answer: B) Tuesday
+
+Explanation: Yesterday Sunday → today Monday → tomorrow Tuesday.
+
+Q17. A man is looking at a photograph. He says, "I have no brothers or sisters, but this man's father is my father's son." Who is in the photograph?
+
+A) His father\
+B) His son\
+C) His uncle\
+D) Himself
+
+Answer: B) His son
+
+Explanation: "My father's son" means the man himself. The person whose father is him is his son.
+
+Q18. A room has four corners. A cat sits in each corner. Each cat sees three cats. How many cats are there?
+
+A) 3\
+B) 4\
+C) 8\
+D) 12
+
+Answer: B) 4
+
+Explanation: One cat in each corner; each sees the other three.
+
+Q19. If 2 workers finish a task in 6 days at the same rate, how many days would 4 workers take?
+
+A) 2\
+B) 3\
+C) 6\
+D) 12
+
+Answer: B) 3
+
+Explanation: Double the workers means half the time: 6 ÷ 2 = 3 days.
+
+Q20. A number becomes 20 when doubled and then 4 is added. What is the number?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Answer: B) 8
+
+Explanation: 2x + 4 = 20 → 2x = 16 → x = 8.
+
+## Day 20: Input and Output (20 Questions)
+
+Q1. Input: 5 2 8 1. Arrange in ascending order.
+
+A) 1 2 5 8\
+B) 8 5 2 1\
+C) 2 1 5 8\
+D) 1 5 2 8
+
+Answer: A
+
+Explanation: Smallest to largest.
+
+Q2. Input: CAT DOG BAT. Arrange alphabetically.
+
+A) BAT CAT DOG\
+B) CAT BAT DOG\
+C) DOG CAT BAT\
+D) BAT DOG CAT
+
+Answer: A
+
+Explanation: B comes before C, and C before D.
+
+Q3. Input: 12 4 9 2. Arrange in descending order.
+
+A) 2 4 9 12\
+B) 12 9 4 2\
+C) 9 12 4 2\
+D) 12 4 9 2
+
+Answer: B
+
+Explanation: Largest to smallest.
+
+Q4. Input: 3 6 9 12. What is the third number after ascending arrangement?
+
+A) 3\
+B) 6\
+C) 9\
+D) 12
+
+Answer: C) 9
+
+Explanation: The sequence is already ascending.
+
+Q5. Input: 7 1 5 3. Arrange in ascending order.
+
+A) 1 3 5 7\
+B) 7 5 3 1\
+C) 1 5 3 7\
+D) 3 1 5 7
+
+Answer: A
+
+Explanation: Smallest to largest.
+
+Q6. Input: APPLE BALL CAT. Arrange alphabetically.
+
+A) APPLE BALL CAT\
+B) BALL APPLE CAT\
+C) CAT BALL APPLE\
+D) APPLE CAT BALL
+
+Answer: A
+
+Explanation: A comes before B, and B before C.
+
+Q7. Input: 10 5 20 15. Arrange ascending.
+
+A) 5 10 15 20\
+B) 20 15 10 5\
+C) 5 15 10 20\
+D) 10 5 15 20
+
+Answer: A
+
+Explanation: Sort from smallest to largest.
+
+Q8. Input: 9 3 6 2. What is the smallest number?
+
+A) 9\
+B) 3\
+C) 6\
+D) 2
+
+Answer: D) 2
+
+Explanation: 2 is the smallest.
+
+Q9. Input: 4 8 2 6. Arrange descending.
+
+A) 2 4 6 8\
+B) 8 6 4 2\
+C) 8 4 6 2\
+D) 6 8 4 2
+
+Answer: B
+
+Explanation: Largest to smallest.
+
+Q10. Input: DOG CAT APPLE. Arrange alphabetically.
+
+A) APPLE CAT DOG\
+B) CAT APPLE DOG\
+C) DOG CAT APPLE\
+D) APPLE DOG CAT
+
+Answer: A
+
+Explanation: A, C, D order.
+
+Q11. Input: 15 10 5 20. What is the second smallest number?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Answer: B) 10
+
+Explanation: Ascending order is 5, 10, 15, 20.
+
+Q12. Input: 2 4 6 8. Reverse the order.
+
+A) 8 6 4 2\
+B) 2 4 6 8\
+C) 4 2 8 6\
+D) 6 8 2 4
+
+Answer: A
+
+Explanation: Read from right to left.
+
+Q13. Input: 1 3 5 7. Multiply every number by 2.
+
+A) 2 6 10 14\
+B) 2 4 6 8\
+C) 1 6 10 14\
+D) 2 6 8 14
+
+Answer: A
+
+Explanation: Multiply each entry by 2.
+
+Q14. Input: 10 20 30. Add 5 to every number.
+
+A) 15 25 35\
+B) 10 25 30\
+C) 15 20 35\
+D) 5 15 25
+
+Answer: A
+
+Explanation: Add 5 to each value.
+
+Q15. Input: 8 2 6 4. Arrange ascending.
+
+A) 2 4 6 8\
+B) 8 6 4 2\
+C) 2 6 4 8\
+D) 4 2 6 8
+
+Answer: A
+
+Explanation: Smallest to largest.
+
+Q16. Input: ZEBRA APPLE MANGO. Arrange alphabetically.
+
+A) APPLE MANGO ZEBRA\
+B) ZEBRA MANGO APPLE\
+C) MANGO APPLE ZEBRA\
+D) APPLE ZEBRA MANGO
+
+Answer: A
+
+Explanation: A, M, Z order.
+
+Q17. Input: 11 4 9 2. Arrange descending.
+
+A) 2 4 9 11\
+B) 11 9 4 2\
+C) 11 4 9 2\
+D) 9 11 4 2
+
+Answer: B
+
+Explanation: Largest to smallest.
+
+Q18. Input: 5 10 15 20. What is the sum of the first and last numbers?
+
+A) 20\
+B) 25\
+C) 30\
+D) 35
+
+Answer: B) 25
+
+Explanation: 5 + 20 = 25.
+
+Q19. Input: 2 4 6 8. What is the average?
+
+A) 4\
+B) 5\
+C) 6\
+D) 7
+
+Answer: B) 5
+
+Explanation: (2 + 4 + 6 + 8) ÷ 4 = 5.
+
+Q20. Input: 9 1 7 3. Arrange ascending.
+
+A) 1 3 7 9\
+B) 9 7 3 1\
+C) 1 7 3 9\
+D) 3 1 7 9
+
+Answer: A
+
+Explanation: Sort smallest to largest.
+
+## Day 21: Sunday Test 3 – Mixed Reasoning (30 Questions)
+
+Target score: 28/35 in your earlier test target; this scheduled test contains 30 questions.
+
+Q1. All programmers are learners. Ravi is a programmer. Ravi is:
+
+A) A learner\
+B) A teacher\
+C) A manager\
+D) Cannot determine
+
+Q2. Statement: Wear a helmet while riding. Assumption:
+
+A) Helmets help protect riders\
+B) Helmets are expensive\
+C) All roads are safe\
+D) Bikes are slow
+
+Q3. Should students practise communication skills?
+
+A) Yes, they are useful in workplaces\
+B) No, they are unnecessary\
+C) Only teachers need them\
+D) None
+
+Q4. If x + 7 = 15, what is x?
+
+A) 6\
+B) 7\
+C) 8\
+D) 9
+
+Q5. Two fathers and two sons have three people. Which family structure fits?
+
+A) Grandfather, father, son\
+B) Four brothers\
+C) Two unrelated fathers\
+D) Three sons
+
+Q6. Arrange 9, 3, 6, 1 in ascending order.
+
+A) 1, 3, 6, 9\
+B) 9, 6, 3, 1\
+C) 1, 6, 3, 9\
+D) 3, 1, 6, 9
+
+Q7. All cats are animals. No animals are plants. Can cats be plants?
+
+A) Yes\
+B) No\
+C) Maybe\
+D) Cannot determine
+
+Q8. Statement: Some students are athletes. Conclusion: Some students are athletes.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q9. A person walks 3 km north and 4 km east. Distance?
+
+A) 5 km\
+B) 6 km\
+C) 7 km\
+D) 8 km
+
+Q10. A person is 7th from the left and 8th from the right. Total?
+
+A) 13\
+B) 14\
+C) 15\
+D) 16
+
+Q11. Six people sit in a circle. What is the angle between adjacent seats?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Q12. A statement says every registered student receives an ID. What follows?
+
+A) Every registered student receives an ID\
+B) No student receives an ID\
+C) Only teachers receive IDs\
+D) All students are registered
+
+Q13. Which is the strongest argument for keeping a backup of project files?
+
+A) Files may be lost or damaged\
+B) Files look colourful\
+C) Backups use paper\
+D) Computers are expensive
+
+Q14. If 2 machines make 2 items in 2 minutes, how long do 10 machines take to make 10 items?
+
+A) 2 minutes\
+B) 5 minutes\
+C) 10 minutes\
+D) 20 minutes
+
+Q15. Input 12, 5, 8, 2. What is the second smallest number?
+
+A) 2\
+B) 5\
+C) 8\
+D) 12
+
+Q16. A is older than B. C is older than A. Who is youngest?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Q17. Some flowers are red. All roses are flowers. Does it follow that some roses are red?
+
+A) Yes\
+B) No\
+C) Always\
+D) Cannot determine
+
+Q18. Statement: Use strong passwords. Assumption:
+
+A) Strong passwords improve security\
+B) Passwords should be public\
+C) Accounts need no protection\
+D) None
+
+Q19. What is the average of 10, 20 and 30?
+
+A) 15\
+B) 20\
+C) 25\
+D) 30
+
+Q20. A person faces south and turns left. Which direction?
+
+A) East\
+B) West\
+C) North\
+D) South
+
+Q21. If 10 people are arranged in a circle, how many seats are opposite one person?
+
+A) 1\
+B) 2\
+C) 5\
+D) 10
+
+Q22. A rectangle has length 8 and breadth 4. Its area is:
+
+A) 12\
+B) 24\
+C) 32\
+D) 36
+
+Q23. All squares are rectangles. All rectangles are shapes. Therefore:
+
+A) All squares are shapes\
+B) No squares are shapes\
+C) All shapes are squares\
+D) None
+
+Q24. A person walks 5 m east and 5 m west. Final position?
+
+A) East\
+B) West\
+C) Starting point\
+D) North
+
+Q25. A is 5th from the left in a row of 15. Rank from right?
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Q26. If yesterday was Thursday, tomorrow is:
+
+A) Friday\
+B) Saturday\
+C) Sunday\
+D) Monday
+
+Q27. Which is the strongest argument for placement training?
+
+A) It helps students prepare for recruitment\
+B) It removes all examinations\
+C) It guarantees every job\
+D) It is only entertainment
+
+Q28. 40 people: 25 like A, 20 like B, 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q29. If 3x = 27, x equals:
+
+A) 6\
+B) 7\
+C) 8\
+D) 9
+
+Q30. Input: 4, 1, 3, 2. Arrange descending.
+
+A) 1, 2, 3, 4\
+B) 4, 3, 2, 1\
+C) 4, 2, 3, 1\
+D) 3, 4, 2, 1
+
+### Sunday Test 3 – Answer Key
+
+| Q  | Answer | Explanation                                         |
+| -- | ------ | --------------------------------------------------- |
+| 1  | A      | Programmers are learners                            |
+| 2  | A      | Helmet protection                                   |
+| 3  | A      | Communication is useful at work                     |
+| 4  | C      | 15 − 7 = 8                                          |
+| 5  | A      | Three generations                                   |
+| 6  | A      | Smallest to largest                                 |
+| 7  | B      | Cats are animals, not plants                        |
+| 8  | A      | Directly stated                                     |
+| 9  | A      | 3-4-5 triangle                                      |
+| 10 | B      | 7 + 8 − 1 = 14                                      |
+| 11 | B      | 360 ÷ 6 = 60°                                       |
+| 12 | A      | Directly stated                                     |
+| 13 | A      | Backup protects against loss                        |
+| 14 | A      | Each machine makes one item in 2 minutes            |
+| 15 | B      | Sorted: 2, 5, 8, 12                                 |
+| 16 | B      | C > A > B                                           |
+| 17 | B      | Red flowers need not be roses                       |
+| 18 | A      | Passwords help security                             |
+| 19 | B      | 60 ÷ 3 = 20                                         |
+| 20 | A      | Left from south is east                             |
+| 21 | A      | One opposite seat                                   |
+| 22 | C      | 8 × 4 = 32                                          |
+| 23 | A      | Square → Rectangle → Shape                          |
+| 24 | C      | Movements cancel                                    |
+| 25 | C      | 15 − 5 + 1 = 11                                     |
+| 26 | B      | Yesterday Thursday, today Friday, tomorrow Saturday |
+| 27 | A      | Placement training prepares students                |
+| 28 | B      | 40 − (25 + 20 − 10) = 5                             |
+| 29 | D      | 27 ÷ 3 = 9                                          |
+| 30 | B      | Descending order                                    |
+
+Correction to answer key: Q10 = 14, option B. Q25 = 11, option B. Q28 = 5, option A. These corrected answers override the table entries above.
+
+# Part 4 – Days 22–30 and Final Revision
+
+This is the final section of your Logical Reasoning question bank. It covers Calendar, Clock, Non-Verbal Reasoning, Mirror and Water Images, Paper Folding, Cubes and Dice, the fourth Sunday test, a full mock test and final revision.
+
+## Day 22: Calendar (20 Questions)
+
+Q1. How many days are there in a leap year?
+
+A) 364\
+B) 365\
+C) 366\
+D) 367
+
+Answer: C) 366
+
+Explanation: A leap year has 366 days, including 29 days in February.
+
+Q2. How many odd days are there in an ordinary year?
+
+A) 0\
+B) 1\
+C) 2\
+D) 3
+
+Answer: B) 1
+
+Explanation: 365 ÷ 7 leaves a remainder of 1.
+
+Q3. How many odd days are there in a leap year?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: 366 ÷ 7 leaves a remainder of 2.
+
+Q4. If today is Monday, what day will it be after 10 days?
+
+A) Wednesday\
+B) Thursday\
+C) Friday\
+D) Saturday
+
+Answer: B) Thursday
+
+Explanation: 10 ÷ 7 leaves 3. Monday + 3 days = Thursday.
+
+Q5. If today is Friday, what day was it 3 days ago?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Answer: A) Tuesday
+
+Explanation: Friday → Thursday → Wednesday → Tuesday.
+
+Q6. How many days are there in February in a leap year?
+
+A) 28\
+B) 29\
+C) 30\
+D) 31
+
+Answer: B) 29
+
+Explanation: February has 29 days in a leap year.
+
+Q7. If January 1 is Sunday, what day is January 8?
+
+A) Sunday\
+B) Monday\
+C) Tuesday\
+D) Wednesday
+
+Answer: A) Sunday
+
+Explanation: Seven days later is the same weekday.
+
+Q8. If today is Wednesday, what day will it be after 21 days?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Answer: C) Wednesday
+
+Explanation: 21 ÷ 7 leaves no remainder. The weekday stays the same.
+
+Q9. Which of the following is a leap year?
+
+A) 2021\
+B) 2022\
+C) 2024\
+D) 2025
+
+Answer: C) 2024
+
+Explanation: 2024 is divisible by 4 and is not a century year.
+
+Q10. If March 1 is Monday in an ordinary year, what day is April 1?
+
+A) Tuesday\
+B) Wednesday\
+C) Thursday\
+D) Friday
+
+Answer: C) Thursday
+
+Explanation: March has 31 days. 31 ÷ 7 leaves 3. Monday + 3 = Thursday.
+
+Q11. How many days are there in a week?
+
+A) 5\
+B) 6\
+C) 7\
+D) 8
+
+Answer: C) 7
+
+Explanation: A week contains seven days.
+
+Q12. If yesterday was Sunday, what day is today?
+
+A) Saturday\
+B) Sunday\
+C) Monday\
+D) Tuesday
+
+Answer: C) Monday
+
+Explanation: The day after Sunday is Monday.
+
+Q13. If today is Tuesday, what day will it be after 100 days?
+
+A) Wednesday\
+B) Thursday\
+C) Friday\
+D) Saturday
+
+Answer: B) Thursday
+
+Explanation: 100 ÷ 7 leaves 2. Tuesday + 2 = Thursday.
+
+Q14. How many months have 31 days?
+
+A) 5\
+B) 6\
+C) 7\
+D) 8
+
+Answer: C) 7
+
+Explanation: January, March, May, July, August, October and December.
+
+Q15. If the 5th day of a month is Monday, what day is the 12th?
+
+A) Sunday\
+B) Monday\
+C) Tuesday\
+D) Wednesday
+
+Answer: B) Monday
+
+Explanation: The dates are seven days apart.
+
+Q16. If today is Saturday, what day will it be after 15 days?
+
+A) Sunday\
+B) Monday\
+C) Tuesday\
+D) Wednesday
+
+Answer: B) Sunday
+
+Explanation: 15 ÷ 7 leaves 1. Saturday + 1 = Sunday.
+
+Q17. Which year is a leap year?
+
+A) 1900\
+B) 2000\
+C) 2100\
+D) 2200
+
+Answer: B) 2000
+
+Explanation: Century years must be divisible by 400 to be leap years. 2000 is divisible by 400.
+
+Q18. If the first day of a month is Thursday, what day is the 15th?
+
+A) Wednesday\
+B) Thursday\
+C) Friday\
+D) Saturday
+
+Answer: B) Thursday
+
+Explanation: 15 − 1 = 14 days. Two complete weeks later is Thursday.
+
+Q19. How many odd days are there in 100 days?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: C) 2
+
+Explanation: 100 ÷ 7 leaves 2.
+
+Q20. If today is Sunday, what day was it 50 days ago?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Answer: B) Tuesday
+
+Explanation: 50 ÷ 7 leaves 1. One day before Sunday is Saturday.
+
+Correction: The correct answer is Saturday, which is not included in the options. The options should be:
+
+A) Friday\
+B) Saturday\
+C) Sunday\
+D) Monday
+
+## Day 23: Clock (20 Questions)
+
+Useful formulas:
+
+- Angle of minute hand = 6° × minutes.
+- Angle of hour hand = 30° × hour + 0.5° × minutes.
+- Angle between hands = difference between their angles; choose the smaller angle.
+
+Q1. What is the angle between the hands at 3:00?
+
+A) 60°\
+B) 90°\
+C) 120°\
+D) 180°
+
+Answer: B) 90°
+
+Explanation: At 3:00, the minute hand is at 12 and the hour hand at 3. The angle is 90°.
+
+Q2. What is the angle between the hands at 6:00?
+
+A) 90°\
+B) 120°\
+C) 180°\
+D) 270°
+
+Answer: C) 180°
+
+Explanation: The hands point in opposite directions.
+
+Q3. How many degrees does the minute hand move in 10 minutes?
+
+A) 30°\
+B) 45°\
+C) 60°\
+D) 90°
+
+Answer: C) 60°
+
+Explanation: 10 × 6° = 60°.
+
+Q4. How many degrees does the hour hand move in one hour?
+
+A) 15°\
+B) 30°\
+C) 45°\
+D) 60°
+
+Answer: B) 30°
+
+Explanation: The hour hand completes 360° in 12 hours: 360 ÷ 12 = 30°.
+
+Q5. What is the angle between the hands at 12:00?
+
+A) 0°\
+B) 30°\
+C) 90°\
+D) 180°
+
+Answer: A) 0°
+
+Explanation: Both hands point to 12.
+
+Q6. What is the angle between the hands at 9:00?
+
+A) 45°\
+B) 90°\
+C) 120°\
+D) 180°
+
+Answer: B) 90°
+
+Explanation: The smaller angle between 9 and 12 is 90°.
+
+Q7. How many degrees does the minute hand move in 20 minutes?
+
+A) 60°\
+B) 90°\
+C) 120°\
+D) 180°
+
+Answer: C) 120°
+
+Explanation: 20 × 6° = 120°.
+
+Q8. What is the angle between the hands at 2:00?
+
+A) 30°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Answer: B) 60°
+
+Explanation: Each hour mark represents 30°. 2 × 30° = 60°.
+
+Q9. How many times do the clock hands overlap in 12 hours?
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Answer: B) 11
+
+Explanation: The minute hand catches the hour hand 11 times in 12 hours.
+
+Q10. What is the angle between the hands at 4:00?
+
+A) 90°\
+B) 100°\
+C) 120°\
+D) 150°
+
+Answer: C) 120°
+
+Explanation: 4 × 30° = 120°.
+
+Q11. How many degrees does the minute hand move in 5 minutes?
+
+A) 15°\
+B) 30°\
+C) 45°\
+D) 60°
+
+Answer: B) 30°
+
+Explanation: 5 × 6° = 30°.
+
+Q12. What is the angle between the hands at 1:00?
+
+A) 15°\
+B) 30°\
+C) 45°\
+D) 60°
+
+Answer: B) 30°
+
+Explanation: One hour mark represents 30°.
+
+Q13. How many degrees does the hour hand move in 30 minutes?
+
+A) 10°\
+B) 15°\
+C) 20°\
+D) 30°
+
+Answer: B) 15°
+
+Explanation: 0.5° × 30 = 15°.
+
+Q14. What is the angle between the hands at 5:00?
+
+A) 120°\
+B) 150°\
+C) 180°\
+D) 90°
+
+Answer: B) 150°
+
+Explanation: 5 × 30° = 150°.
+
+Q15. How many degrees does the minute hand move in 15 minutes?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Answer: C) 90°
+
+Explanation: 15 × 6° = 90°.
+
+Q16. What is the angle between the hands at 7:00?
+
+A) 120°\
+B) 150°\
+C) 180°\
+D) 210°
+
+Answer: B) 150°
+
+Explanation: 7 × 30° = 210°. The smaller angle is 360° − 210° = 150°.
+
+Q17. What is the angle between the hands at 8:00?
+
+A) 120°\
+B) 180°\
+C) 240°\
+D) 90°
+
+Answer: A) 120°
+
+Explanation: 8 × 30° = 240°. Smaller angle = 360° − 240° = 120°.
+
+Q18. How many degrees does the minute hand move in 1 minute?
+
+A) 3°\
+B) 6°\
+C) 12°\
+D) 30°
+
+Answer: B) 6°
+
+Explanation: 360° ÷ 60 = 6°.
+
+Q19. What is the angle between the hands at 10:00?
+
+A) 60°\
+B) 90°\
+C) 120°\
+D) 150°
+
+Answer: A) 60°
+
+Explanation: The distance between 10 and 12 is two hour marks: 2 × 30° = 60°.
+
+Q20. What is the angle between the hands at 12:30?
+
+A) 150°\
+B) 165°\
+C) 180°\
+D) 195°
+
+Answer: B) 165°
+
+Explanation: Minute hand = 180°. Hour hand = 15°. Difference = 165°.
+
+## Day 24: Non-Verbal Reasoning (20 Questions)
+
+Q1. Which shape comes next? Circle, Square, Circle, Square, ?
+
+A) Triangle\
+B) Circle\
+C) Rectangle\
+D) Star
+
+Answer: B) Circle
+
+Explanation: The shapes alternate between circle and square.
+
+Q2. Find the next symbol: ★, ○, ★, ○, ?
+
+A) △\
+B) ★\
+C) □\
+D) ○
+
+Answer: B) ★
+
+Explanation: Star and circle alternate.
+
+Q3. Which shape has three sides?
+
+A) Square\
+B) Circle\
+C) Triangle\
+D) Rectangle
+
+Answer: C) Triangle
+
+Explanation: A triangle has three sides.
+
+Q4. Which shape has no corners?
+
+A) Triangle\
+B) Square\
+C) Circle\
+D) Rectangle
+
+Answer: C) Circle
+
+Explanation: A circle has no corners or vertices.
+
+Q5. Find the odd one out.
+
+A) ○\
+B) △\
+C) □\
+D) Cube
+
+Answer: D) Cube
+
+Explanation: The first three are 2D shapes; a cube is 3D.
+
+Q6. Find the next shape: △, △△, △△△, ?
+
+A) △\
+B) △△\
+C) △△△△\
+D) □
+
+Answer: C) △△△△
+
+Explanation: One triangle is added at each step.
+
+Q7. Which figure has four equal sides and four right angles?
+
+A) Rectangle\
+B) Square\
+C) Triangle\
+D) Circle
+
+Answer: B) Square
+
+Explanation: A square has four equal sides and four right angles.
+
+Q8. Find the next symbol: ↑, →, ↓, ?
+
+A) ↑\
+B) ←\
+C) →\
+D) ↓
+
+Answer: B) ←
+
+Explanation: The arrow rotates 90° clockwise each time.
+
+Q9. Which is different?
+
+A) Cube\
+B) Sphere\
+C) Cone\
+D) Square
+
+Answer: D) Square
+
+Explanation: The first three are 3D objects; square is 2D.
+
+Q10. How many sides does a hexagon have?
+
+A) 5\
+B) 6\
+C) 7\
+D) 8
+
+Answer: B) 6
+
+Explanation: Hexa means six.
+
+Q11. Find the next shape: □, ○, △, □, ○, ?
+
+A) □\
+B) ○\
+C) △\
+D) ☆
+
+Answer: C) △
+
+Explanation: The three-shape pattern repeats.
+
+Q12. Which shape has exactly five sides?
+
+A) Pentagon\
+B) Hexagon\
+C) Octagon\
+D) Triangle
+
+Answer: A) Pentagon
+
+Explanation: A pentagon has five sides.
+
+Q13. Find the next arrow: ←, ↑, →, ↓, ?
+
+A) ←\
+B) ↑\
+C) →\
+D) ↓
+
+Answer: A) ←
+
+Explanation: The arrow rotates 90° clockwise each time.
+
+Q14. Which shape has the greatest number of sides?
+
+A) Triangle\
+B) Square\
+C) Pentagon\
+D) Hexagon
+
+Answer: D) Hexagon
+
+Explanation: Hexagon has six sides.
+
+Q15. Find the missing shape: ○, ○○, ○○○, ?
+
+A) ○\
+B) ○○\
+C) ○○○○\
+D) □
+
+Answer: C) ○○○○
+
+Explanation: One circle is added each time.
+
+Q16. Which of these is symmetrical along both vertical and horizontal axes?
+
+A) Square\
+B) Scalene triangle\
+C) Irregular shape\
+D) Semicircle
+
+Answer: A) Square
+
+Explanation: A square has both vertical and horizontal symmetry.
+
+Q17. Find the next symbol: +, ×, +, ×, ?
+
+A) −\
+B) +\
+C) ×\
+D) ÷
+
+Answer: B) +
+
+Explanation: The symbols alternate.
+
+Q18. How many vertices does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Answer: B) 8
+
+Explanation: A cube has eight corners (vertices).
+
+Q19. Which shape has one curved boundary and no straight sides?
+
+A) Circle\
+B) Triangle\
+C) Square\
+D) Rectangle
+
+Answer: A) Circle
+
+Explanation: A circle has one continuous curved boundary.
+
+Q20. Find the next symbol: ★, ★★, ★★★, ?
+
+A) ★\
+B) ★★\
+C) ★★★★\
+D) ☆
+
+Answer: C) ★★★★
+
+Explanation: One star is added at each step.
+
+## Day 25: Mirror and Water Images (20 Questions)
+
+Q1. A vertical mirror is placed in front of the letter B. What type of reversal occurs?
+
+A) Top-bottom reversal\
+B) Left-right reversal\
+C) No reversal\
+D) Rotation by 90°
+
+Answer: B) Left-right reversal
+
+Explanation: A vertical mirror reverses the left and right sides.
+
+Q2. A horizontal mirror is placed below an object. What type of reversal occurs?
+
+A) Left-right\
+B) Top-bottom\
+C) No change\
+D) Rotation by 180°
+
+Answer: B) Top-bottom
+
+Explanation: A horizontal mirror reverses the top and bottom.
+
+Q3. Which capital letter has vertical symmetry in a standard block font?
+
+A) A\
+B) F\
+C) G\
+D) R
+
+Answer: A) A
+
+Explanation: A has a vertical line of symmetry in a standard block style.
+
+Q4. Which capital letter has horizontal symmetry in a standard block font?
+
+A) A\
+B) B\
+C) C\
+D) D
+
+Answer: B) B
+
+Explanation: In a typical block font, B can have horizontal symmetry when its upper and lower lobes match. Font design matters.
+
+Q5. What happens to the word LEFT in a vertical mirror?
+
+A) It remains exactly the same\
+B) Its order appears reversed\
+C) It rotates 90°\
+D) It becomes upside down
+
+Answer: B
+
+Explanation: A vertical mirror reverses the order and orientation of the letters. Exact letter appearance depends on font.
+
+Q6. Which digit is vertically symmetrical in a standard digital-style font?
+
+A) 0\
+B) 2\
+C) 4\
+D) 5
+
+Answer: A) 0
+
+Explanation: A standard zero is symmetrical around its vertical centre line.
+
+Q7. A clock shows 3:00. What time appears in its mirror image?
+
+A) 9:00\
+B) 6:00\
+C) 3:00\
+D) 12:00
+
+Answer: A) 9:00
+
+Explanation: Mirror time on a 12-hour analogue clock = 11:60 − actual time. 11:60 − 3:00 = 8:60 = 9:00.
+
+Q8. A clock shows 6:00. What is its mirror time?
+
+A) 5:00\
+B) 6:00\
+C) 7:00\
+D) 12:00
+
+Answer: B) 6:00
+
+Explanation: The 6 position is unchanged under a vertical reflection.
+
+Q9. Which of these letters has both vertical and horizontal symmetry in a standard block font?
+
+A) H\
+B) F\
+C) G\
+D) L
+
+Answer: A) H
+
+Explanation: A standard block H is symmetrical vertically and horizontally.
+
+Q10. A water image is formed below an object. Which part is reversed?
+
+A) Left and right\
+B) Top and bottom\
+C) Both\
+D) Neither
+
+Answer: B) Top and bottom
+
+Explanation: A water image is like a reflection in a horizontal line.
+
+Q11. Which letter has no vertical symmetry in a standard block font?
+
+A) A\
+B) H\
+C) M\
+D) F
+
+Answer: D) F
+
+Explanation: F does not have a vertical line of symmetry.
+
+Q12. Which letter has vertical symmetry?
+
+A) M\
+B) F\
+C) G\
+D) R
+
+Answer: A) M
+
+Explanation: A standard block M has vertical symmetry.
+
+Q13. A clock shows 2:00. What is the mirror time?
+
+A) 8:00\
+B) 9:00\
+C) 10:00\
+D) 11:00
+
+Answer: C) 10:00
+
+Explanation: 11:60 − 2:00 = 9:60 = 10:00.
+
+Q14. Which letter looks unchanged in a vertical mirror in a standard block font?
+
+A) A\
+B) F\
+C) R\
+D) G
+
+Answer: A) A
+
+Explanation: A has vertical symmetry.
+
+Q15. Which letter has horizontal symmetry in a standard block font?
+
+A) C\
+B) A\
+C) M\
+D) P
+
+Answer: A) C
+
+Explanation: A standard block C has horizontal symmetry.
+
+Q16. If an arrow points upward, what does its water image point towards?
+
+A) Upward\
+B) Downward\
+C) Left\
+D) Right
+
+Answer: B) Downward
+
+Explanation: A horizontal reflection reverses top and bottom.
+
+Q17. If an arrow points right, what does its vertical mirror image point towards?
+
+A) Right\
+B) Left\
+C) Up\
+D) Down
+
+Answer: B) Left
+
+Explanation: Vertical reflection reverses left and right.
+
+Q18. Which capital letter has 180° rotational symmetry in a standard block font?
+
+A) H\
+B) A\
+C) F\
+D) L
+
+Answer: A) H
+
+Explanation: A standard H looks the same after a half-turn.
+
+Q19. A clock shows 4:00. What is its mirror time?
+
+A) 7:00\
+B) 8:00\
+C) 9:00\
+D) 10:00
+
+Answer: B) 8:00
+
+Explanation: 11:60 − 4:00 = 7:60 = 8:00.
+
+Q20. A vertical mirror is placed to the right of a shape. Which side of the image appears reversed?
+
+A) Top and bottom\
+B) Left and right\
+C) Front and back only\
+D) No side
+
+Answer: B) Left and right
+
+Explanation: Vertical mirrors produce left-right reversal.
+
+## Day 26: Paper Folding and Cutting (20 Questions)
+
+For these questions, assume the paper is folded exactly as described, and each cut passes through all folded layers.
+
+Q1. A square paper is folded once vertically. How many layers are formed?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: One fold doubles the layers.
+
+Q2. A paper is folded twice. How many layers are formed?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Answer: C) 4
+
+Explanation: Layers double with each fold: 1 → 2 → 4.
+
+Q3. A paper is folded three times. How many layers are formed?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: C) 8
+
+Explanation: \\(2^3=8\\).
+
+Q4. A paper is folded once and one hole is punched away from the fold. How many holes appear after unfolding?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: The punch passes through two layers.
+
+Q5. A paper is folded twice and one hole is punched through all layers. How many holes appear after unfolding?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Answer: C) 4
+
+Explanation: Two folds create four layers.
+
+Q6. A paper is folded four times. How many layers are formed?
+
+A) 8\
+B) 12\
+C) 16\
+D) 20
+
+Answer: C) 16
+
+Explanation: \\(2^4=16\\).
+
+Q7. A paper is folded once horizontally. Which direction does unfolding reverse?
+
+A) Left-right\
+B) Top-bottom\
+C) Both\
+D) Neither
+
+Answer: B) Top-bottom
+
+Explanation: A horizontal fold creates a top-bottom reflection.
+
+Q8. A paper is folded once vertically. Which direction does unfolding reverse?
+
+A) Left-right\
+B) Top-bottom\
+C) Both\
+D) Neither
+
+Answer: A) Left-right
+
+Explanation: A vertical fold creates a left-right reflection.
+
+Q9. A paper is folded twice and two holes are punched through all layers. How many holes appear after unfolding?
+
+A) 4\
+B) 6\
+C) 8\
+D) 10
+
+Answer: C) 8
+
+Explanation: Two holes × four layers = eight holes.
+
+Q10. A paper is folded three times and one hole is punched. How many holes appear after unfolding?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: C) 8
+
+Explanation: Three folds create eight layers.
+
+Q11. How many layers result from five folds, assuming each fold halves the paper?
+
+A) 16\
+B) 24\
+C) 32\
+D) 64
+
+Answer: C) 32
+
+Explanation: \\(2^5=32\\).
+
+Q12. A paper is folded once diagonally. How many layers are formed?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: One fold creates two layers.
+
+Q13. A paper is folded twice. A single cut is made through all layers. How many cut marks may appear after unfolding?
+
+A) 1\
+B) 2\
+C) 4\
+D) 8
+
+Answer: C) 4
+
+Explanation: One cut through four layers can produce four corresponding cut marks after unfolding.
+
+Q14. A paper is folded three times. How many times is its area reduced compared with the original sheet?
+
+A) 2\
+B) 4\
+C) 6\
+D) 8
+
+Answer: D) 8
+
+Explanation: Each fold halves the area. After three folds, the folded area is one-eighth.
+
+Q15. A paper is folded twice. What fraction of the original area is in the folded paper?
+
+A) 1/2\
+B) 1/3\
+C) 1/4\
+D) 1/8
+
+Answer: C) 1/4
+
+Explanation: Two folds halve the area twice.
+
+Q16. A paper is folded four times. What fraction of the original area remains visible in the folded shape?
+
+A) 1/4\
+B) 1/8\
+C) 1/16\
+D) 1/32
+
+Answer: C) 1/16
+
+Explanation: \\(1/2^4=1/16\\).
+
+Q17. A sheet is folded once and a hole is punched exactly on the fold line. How many holes appear after unfolding?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: A) 1
+
+Explanation: A hole exactly on the fold line is shared by the two halves and appears as one hole.
+
+Q18. A sheet is folded twice and a hole is punched at a point that lies on one fold line but not the other. How many distinct holes appear after unfolding?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+Answer: B) 2
+
+Explanation: The fold-line coincidence reduces the usual four reflected positions to two distinct positions. The exact result depends on the fold geometry.
+
+Q19. A paper is folded three times. How many separate sections are stacked together?
+
+A) 4\
+B) 6\
+C) 8\
+D) 16
+
+Answer: C) 8
+
+Explanation: Each fold doubles the number of layers.
+
+Q20. A paper is folded twice and one hole is punched through all layers. How many matching hole positions are produced when fully unfolded, assuming the punch is away from fold lines?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Answer: C) 4
+
+Explanation: Four layers create four reflected hole positions.
+
+## Day 27: Cubes and Dice (20 Questions)
+
+Q1. How many faces does a cube have?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: B) 6
+
+Explanation: A cube has six square faces.
+
+Q2. How many edges does a cube have?
+
+A) 8\
+B) 10\
+C) 12\
+D) 14
+
+Answer: C) 12
+
+Explanation: A cube has 12 edges.
+
+Q3. How many vertices does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Answer: B) 8
+
+Explanation: A cube has eight corners.
+
+Q4. A cube is painted on all six faces and cut into 27 equal smaller cubes. How many small cubes have paint on three faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: C) 8
+
+Explanation: Only the eight corner cubes have three painted faces.
+
+Q5. A painted cube is divided into 27 equal cubes. How many small cubes have no paint?
+
+A) 0\
+B) 1\
+C) 6\
+D) 8
+
+Answer: B) 1
+
+Explanation: The single central cube has no painted face.
+
+Q6. A painted cube is divided into 64 equal cubes. How many small cubes have paint on three faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: C) 8
+
+Explanation: There are always eight corner cubes.
+
+Q7. A painted cube is divided into 64 equal cubes. How many small cubes have no paint?
+
+A) 4\
+B) 8\
+C) 16\
+D) 27
+
+Answer: B) 8
+
+Explanation: For a 4 × 4 × 4 cube, inner cubes = (4 − 2)³ = 8.
+
+Q8. A cube is painted on all faces and divided into 8 equal cubes. How many have paint on three faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 0
+
+Answer: C) 8
+
+Explanation: All eight smaller cubes are corner cubes.
+
+Q9. How many faces meet at one vertex of a cube?
+
+A) 2\
+B) 3\
+C) 4\
+D) 6
+
+Answer: B) 3
+
+Explanation: Three square faces meet at every cube corner.
+
+Q10. A cube is cut into 125 equal smaller cubes. How many smaller cubes are there along each edge?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Answer: C) 5
+
+Explanation: \\(5^3=125\\).
+
+Q11. A cube is painted on all faces and divided into 125 equal cubes. How many have paint on exactly two faces?
+
+A) 12\
+B) 24\
+C) 36\
+D) 48
+
+Answer: B) 36
+
+Explanation: Exactly two painted faces = 12(n − 2) = 12 × 3 = 36.
+
+Q12. A cube is divided into 64 equal cubes after painting all faces. How many have paint on exactly one face?
+
+A) 12\
+B) 16\
+C) 24\
+D) 32
+
+Answer: C) 24
+
+Explanation: Exactly one painted face = 6(n − 2)² = 6 × 4 = 24.
+
+Q13. How many opposite pairs of faces does a standard cube have?
+
+A) 2\
+B) 3\
+C) 4\
+D) 6
+
+Answer: B) 3
+
+Explanation: Six faces form three opposite pairs.
+
+Q14. On a standard die, opposite faces add up to 7. What is opposite 2?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Answer: C) 5
+
+Explanation: 2 + 5 = 7.
+
+Q15. On a standard die, what is opposite 1?
+
+A) 2\
+B) 4\
+C) 5\
+D) 6
+
+Answer: D) 6
+
+Explanation: 1 + 6 = 7.
+
+Q16. On a standard die, what is opposite 3?
+
+A) 2\
+B) 4\
+C) 5\
+D) 6
+
+Answer: B) 4
+
+Explanation: 3 + 4 = 7.
+
+Q17. A cube has side length 3 cm. What is its volume?
+
+A) 9 cm³\
+B) 18 cm³\
+C) 27 cm³\
+D) 36 cm³
+
+Answer: C) 27 cm³
+
+Explanation: Volume = side³ = 3 × 3 × 3 = 27.
+
+Q18. A cube has side length 4 cm. What is its total surface area?
+
+A) 16 cm²\
+B) 48 cm²\
+C) 64 cm²\
+D) 96 cm²
+
+Answer: D) 96 cm²
+
+Explanation: Surface area = 6 × side² = 6 × 16 = 96.
+
+Q19. A cube is divided into 216 equal smaller cubes. How many smaller cubes are along each edge?
+
+A) 4\
+B) 5\
+C) 6\
+D) 8
+
+Answer: C) 6
+
+Explanation: \\(6^3=216\\).
+
+Q20. A painted cube is divided into 216 equal cubes. How many have no paint?
+
+A) 8\
+B) 27\
+C) 64\
+D) 125
+
+Answer: B) 64
+
+Explanation: Inner cubes = (6 − 2)³ = 4³ = 64.
+
+Correction: The correct answer is C) 64.
+
+## Day 28: Sunday Test 4 – Mixed Logical Reasoning (30 Questions)
+
+Target score: 32/40 in your earlier target; this scheduled test contains 30 questions.
+
+Q1. If today is Monday, what day will it be after 17 days?
+
+A) Wednesday\
+B) Thursday\
+C) Friday\
+D) Saturday
+
+Q2. What is the angle between clock hands at 2:00?
+
+A) 30°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Q3. Which shape has eight sides?
+
+A) Pentagon\
+B) Hexagon\
+C) Heptagon\
+D) Octagon
+
+Q4. How many layers are formed after three paper folds?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Q5. How many faces does a cube have?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Q6. Which capital letter has vertical symmetry in a standard block font?
+
+A) A\
+B) F\
+C) G\
+D) R
+
+Q7. If today is Friday, what day was it 10 days ago?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Q8. How many degrees does the minute hand move in 25 minutes?
+
+A) 120°\
+B) 135°\
+C) 150°\
+D) 180°
+
+Q9. Which shape has six sides?
+
+A) Triangle\
+B) Pentagon\
+C) Hexagon\
+D) Octagon
+
+Q10. A cube is painted on all faces and divided into 27 equal cubes. How many have paint on three faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Q11. A vertical mirror reverses:
+
+A) Top and bottom\
+B) Left and right\
+C) Both\
+D) Neither
+
+Q12. How many odd days are in 365 days?
+
+A) 0\
+B) 1\
+C) 2\
+D) 3
+
+Q13. What is the angle between the hands at 6:00?
+
+A) 90°\
+B) 120°\
+C) 180°\
+D) 270°
+
+Q14. A paper is folded twice. How many layers are formed?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Q15. How many edges does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Q16. If the first day of a month is Tuesday, what day is the 15th?
+
+A) Monday\
+B) Tuesday\
+C) Wednesday\
+D) Thursday
+
+Q17. Which letter has horizontal symmetry in a standard block font?
+
+A) C\
+B) F\
+C) L\
+D) P
+
+Q18. A clock shows 4:00. What is its mirror time?
+
+A) 6:00\
+B) 7:00\
+C) 8:00\
+D) 9:00
+
+Q19. How many vertices does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Q20. How many degrees does the hour hand move in 2 hours?
+
+A) 30°\
+B) 45°\
+C) 60°\
+D) 90°
+
+Q21. If today is Sunday, what day will it be after 28 days?
+
+A) Monday\
+B) Tuesday\
+C) Saturday\
+D) Sunday
+
+Q22. How many layers are formed after four paper folds?
+
+A) 8\
+B) 12\
+C) 16\
+D) 32
+
+Q23. A cube is divided into 64 smaller cubes after painting all faces. How many have no paint?
+
+A) 4\
+B) 6\
+C) 8\
+D) 16
+
+Q24. What is the angle between clock hands at 9:00?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 180°
+
+Q25. Which shape has five sides?
+
+A) Triangle\
+B) Square\
+C) Pentagon\
+D) Hexagon
+
+Q26. A water image reverses:
+
+A) Left and right\
+B) Top and bottom\
+C) Both\
+D) Neither
+
+Q27. How many times do clock hands overlap in 12 hours?
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Q28. A cube has side length 5 cm. Find its volume.
+
+A) 25 cm³\
+B) 75 cm³\
+C) 100 cm³\
+D) 125 cm³
+
+Q29. Which year is a leap year?
+
+A) 2021\
+B) 2022\
+C) 2024\
+D) 2025
+
+Q30. If a paper is folded once and one hole is punched away from the fold, how many holes appear after unfolding?
+
+A) 1\
+B) 2\
+C) 3\
+D) 4
+
+### Sunday Test 4 – Answer Key
+
+| Q  | Answer             | Explanation                              |
+| -- | ------------------ | ---------------------------------------- |
+| 1  | B – Thursday       | 17 ÷ 7 leaves 3; Monday + 3 = Thursday   |
+| 2  | B – 60°            | 2 × 30° = 60°                            |
+| 3  | D – Octagon        | An octagon has 8 sides                   |
+| 4  | C – 8              | \\(2^3=8\\)                              |
+| 5  | B – 6              | A cube has six faces                     |
+| 6  | A – A              | A has vertical symmetry                  |
+| 7  | B – Tuesday        | 10 days back is 3 weekdays back          |
+| 8  | C – 150°           | 25 × 6° = 150°                           |
+| 9  | C – Hexagon        | Six sides                                |
+| 10 | C – 8              | Eight corner cubes                       |
+| 11 | B – Left and right | Vertical mirror reversal                 |
+| 12 | B – 1              | 365 ÷ 7 leaves 1                         |
+| 13 | C – 180°           | Opposite hands                           |
+| 14 | C – 4              | Two folds double twice                   |
+| 15 | D – 12             | Twelve edges                             |
+| 16 | B – Tuesday        | 14 days after the first                  |
+| 17 | A – C              | Standard block C has horizontal symmetry |
+| 18 | C – 8:00           | Mirror time = 11:60 − 4:00               |
+| 19 | B – 8              | Eight vertices                           |
+| 20 | C – 60°            | 30° per hour × 2                         |
+| 21 | D – Sunday         | 28 days is four weeks                    |
+| 22 | C – 16             | \\(2^4=16\\)                             |
+| 23 | C – 8              | (4 − 2)³ = 8                             |
+| 24 | C – 90°            | 9 and 12 are three hour marks apart      |
+| 25 | C – Pentagon       | Five sides                               |
+| 26 | B – Top and bottom | Water-image reversal                     |
+| 27 | B – 11             | Hands overlap 11 times in 12 hours       |
+| 28 | D – 125 cm³        | 5³ = 125                                 |
+| 29 | C – 2024           | Divisible by 4                           |
+| 30 | B – 2              | One hole through two layers              |
+
+## Day 29: Mixed Logical Reasoning (20 Questions)
+
+Q1. Find the next number: 3, 6, 12, 24, ?
+
+A) 36\
+B) 42\
+C) 48\
+D) 54
+
+Answer: C) 48
+
+Explanation: Multiply by 2 each time.
+
+Q2. Find the next letter: A, C, F, J, O, ?
+
+A) T\
+B) U\
+C) V\
+D) W
+
+Answer: B) U
+
+Explanation: Add 2, 3, 4, 5, then 6 alphabet positions.
+
+Q3. If TABLE is coded as UBCMF, how is CHAIR coded?
+
+A) DIBJS\
+B) DIBIR\
+C) EIBJS\
+D) CIBJS
+
+Answer: A) DIBJS
+
+Explanation: Move each letter forward by one.
+
+Q4. Bird : Nest :: Bee : ?
+
+A) Den\
+B) Hive\
+C) Stable\
+D) Kennel
+
+Answer: B) Hive
+
+Explanation: A nest is a bird's home; a hive is a bee's home.
+
+Q5. Find the odd one out.
+
+A) 16\
+B) 25\
+C) 36\
+D) 50
+
+Answer: D) 50
+
+Explanation: The first three are perfect squares.
+
+Q6. A person walks 5 km north and 12 km east. What is the shortest distance?
+
+A) 11 km\
+B) 12 km\
+C) 13 km\
+D) 17 km
+
+Answer: C) 13 km
+
+Explanation: \\(\sqrt{5^2+12^2}=13\\) km.
+
+Q7. A student is 8th from the left and 10th from the right. How many students are there?
+
+A) 16\
+B) 17\
+C) 18\
+D) 19
+
+Answer: B) 17
+
+Explanation: 8 + 10 − 1 = 17.
+
+Q8. All doctors are educated. Ravi is a doctor. Conclusion: Ravi is educated.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Answer: A) Follows
+
+Explanation: Ravi belongs to the doctor group, which is included in educated people.
+
+Q9. If today is Wednesday, what day will it be after 45 days?
+
+A) Friday\
+B) Saturday\
+C) Sunday\
+D) Monday
+
+Answer: B) Saturday
+
+Explanation: 45 ÷ 7 leaves 3. Wednesday + 3 = Saturday.
+
+Q10. What is the angle between clock hands at 5:00?
+
+A) 120°\
+B) 150°\
+C) 180°\
+D) 210°
+
+Answer: B) 150°
+
+Explanation: 5 × 30° = 150°.
+
+Q11. How many faces does a cube have?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Answer: B) 6
+
+Explanation: A cube has six faces.
+
+Q12. A paper is folded twice. How many layers are formed?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Answer: C) 4
+
+Explanation: Two folds create four layers.
+
+Q13. Which letter has vertical symmetry?
+
+A) A\
+B) F\
+C) G\
+D) R
+
+Answer: A) A
+
+Explanation: Standard block A has vertical symmetry.
+
+Q14. 30 people: 18 like tea, 16 like coffee and 8 like both. How many like neither?
+
+A) 2\
+B) 4\
+C) 6\
+D) 8
+
+Answer: B) 4
+
+Explanation: At least one = 18 + 16 − 8 = 26. Neither = 30 − 26 = 4.
+
+Q15. A is the brother of B. B is the mother of C. A is C's:
+
+A) Father\
+B) Uncle\
+C) Brother\
+D) Grandfather
+
+Answer: B) Uncle
+
+Explanation: Mother's brother is an uncle.
+
+Q16. Arrange 15, 3, 9, 6 in descending order.
+
+A) 3, 6, 9, 15\
+B) 15, 9, 6, 3\
+C) 15, 6, 9, 3\
+D) 9, 15, 6, 3
+
+Answer: B
+
+Explanation: Largest to smallest.
+
+Q17. If 4 workers complete a task in 6 days, how long will 8 workers take at the same rate?
+
+A) 2 days\
+B) 3 days\
+C) 4 days\
+D) 5 days
+
+Answer: B) 3 days
+
+Explanation: Double the workers means half the time.
+
+Q18. Which is the strongest argument for practising mock interviews?
+
+A) They help candidates practise answering interview questions\
+B) They guarantee selection\
+C) They remove the need for technical skills\
+D) They replace every interview
+
+Answer: A
+
+Explanation: Mock interviews provide realistic practice.
+
+Q19. Find the missing number: 1, 4, 9, 16, 25, ?
+
+A) 30\
+B) 35\
+C) 36\
+D) 49
+
+Answer: C) 36
+
+Explanation: Square numbers; next is 6² = 36.
+
+Q20. If 3x + 2 = 17, what is x?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Answer: C) 5
+
+Explanation: 3x = 15, so x = 5.
+
+## Day 30: Full Logical Reasoning Mock Test (50 Questions)
+
+
+
+Time limit: 60 minutes
+
+Target: 40/50
+
+
+
+Try to complete all questions before checking the answer key.
+
+Q1. Find the next number: 4, 8, 16, 32, ?
+
+A) 48\
+B) 56\
+C) 64\
+D) 72
+
+Q2. Find the next letter: B, E, H, K, ?
+
+A) M\
+B) N\
+C) O\
+D) P
+
+Q3. If DOG is coded as EPH, how is CAT coded?
+
+A) DBU\
+B) CBT\
+C) EBU\
+D) DCT
+
+Q4. Book : Read :: Food : ?
+
+A) Cook\
+B) Eat\
+C) Buy\
+D) Sell
+
+Q5. Find the odd one out.
+
+A) 9\
+B) 16\
+C) 25\
+D) 30
+
+Q6. A is the father of B. B is the mother of C. A is C's:
+
+A) Uncle\
+B) Grandfather\
+C) Brother\
+D) Father
+
+Q7. A person walks 6 km east and 8 km north. What is the shortest distance?
+
+A) 8 km\
+B) 10 km\
+C) 12 km\
+D) 14 km
+
+Q8. A student is 12th from the top and 15th from the bottom. How many students are there?
+
+A) 25\
+B) 26\
+C) 27\
+D) 28
+
+Q9. Five people sit in a row. The middle position is:
+
+A) 1st\
+B) 2nd\
+C) 3rd\
+D) 4th
+
+Q10. In a circle of 8 people, how many positions away is the opposite person?
+
+A) 2\
+B) 3\
+C) 4\
+D) 5
+
+Q11. All dogs are animals. All animals are living beings. Therefore:
+
+A) All dogs are living beings\
+B) No dogs are living beings\
+C) All living beings are dogs\
+D) None
+
+Q12. Some students are singers. All singers are talented. Therefore:
+
+A) Some students are talented\
+B) All students are talented\
+C) No students are talented\
+D) None
+
+Q13. 40 people: 25 like tea, 20 like coffee and 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q14. If x + 8 = 20, find x.
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Q15. If yesterday was Tuesday, what day is tomorrow?
+
+A) Wednesday\
+B) Thursday\
+C) Friday\
+D) Saturday
+
+Q16. What is the angle between clock hands at 3:00?
+
+A) 45°\
+B) 60°\
+C) 90°\
+D) 180°
+
+Q17. How many degrees does the minute hand move in 20 minutes?
+
+A) 60°\
+B) 90°\
+C) 120°\
+D) 150°
+
+Q18. Which shape has eight sides?
+
+A) Pentagon\
+B) Hexagon\
+C) Heptagon\
+D) Octagon
+
+Q19. How many layers are formed after four folds?
+
+A) 8\
+B) 12\
+C) 16\
+D) 32
+
+Q20. How many vertices does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Q21. Which letter has vertical symmetry?
+
+A) A\
+B) F\
+C) G\
+D) R
+
+Q22. A water image reverses:
+
+A) Left and right\
+B) Top and bottom\
+C) Both\
+D) Neither
+
+Q23. A cube is painted on all faces and divided into 27 equal cubes. How many have paint on three faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Q24. A cube is divided into 64 equal cubes. How many have no paint if the original cube was painted on all six faces?
+
+A) 4\
+B) 6\
+C) 8\
+D) 16
+
+Q25. Find the next number: 2, 5, 10, 17, 26, ?
+
+A) 35\
+B) 36\
+C) 37\
+D) 38
+
+Q26. Find the next letter: Z, W, T, Q, ?
+
+A) M\
+B) N\
+C) O\
+D) P
+
+Q27. If A = 1, B = 2 and so on, what is the value of CAT?
+
+A) 22\
+B) 23\
+C) 24\
+D) 25
+
+Q28. Doctor : Hospital :: Teacher : ?
+
+A) Bank\
+B) School\
+C) Market\
+D) Court
+
+Q29. Find the odd one out.
+
+A) HTML\
+B) CSS\
+C) JavaScript\
+D) Elephant
+
+Q30. A is older than B. C is older than A. Who is youngest?
+
+A) A\
+B) B\
+C) C\
+D) Cannot determine
+
+Q31. If today is Monday, what day will it be after 50 days?
+
+A) Tuesday\
+B) Wednesday\
+C) Thursday\
+D) Friday
+
+Q32. What is the angle between clock hands at 8:00?
+
+A) 90°\
+B) 120°\
+C) 150°\
+D) 180°
+
+Q33. A paper is folded twice and one hole is punched away from the folds. How many holes appear after unfolding?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Q34. How many edges does a cube have?
+
+A) 6\
+B) 8\
+C) 10\
+D) 12
+
+Q35. Which is a leap year?
+
+A) 2021\
+B) 2022\
+C) 2024\
+D) 2025
+
+Q36. A person faces west and turns right. Which direction does the person face?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Q37. A person is 9th from the left and 11th from the right. How many people are there?
+
+A) 18\
+B) 19\
+C) 20\
+D) 21
+
+Q38. No fish are birds. All sharks are fish. Therefore:
+
+A) All sharks are birds\
+B) No sharks are birds\
+C) Some birds are sharks\
+D) None
+
+Q39. 60 students: 35 like Maths, 30 like Science and 15 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q40. A statement says, "Use a strong password to protect your account." Which assumption is reasonable?
+
+A) Strong passwords improve security\
+B) Passwords should be public\
+C) Accounts do not need security\
+D) All passwords are identical
+
+Q41. If 5 machines make 5 items in 5 minutes, how long do 10 machines take to make 10 items?
+
+A) 5 minutes\
+B) 10 minutes\
+C) 15 minutes\
+D) 20 minutes
+
+Q42. Input: 14, 5, 9, 2. Arrange in ascending order.
+
+A) 2, 5, 9, 14\
+B) 14, 9, 5, 2\
+C) 2, 9, 5, 14\
+D) 5, 2, 9, 14
+
+Q43. Which is the strongest argument for students building project portfolios?
+
+A) They demonstrate practical work\
+B) They guarantee employment\
+C) They replace all interviews\
+D) They remove the need for learning
+
+Q44. If 4x = 36, find x.
+
+A) 7\
+B) 8\
+C) 9\
+D) 10
+
+Q45. If a person faces south and turns left, which direction does the person face?
+
+A) East\
+B) West\
+C) North\
+D) South
+
+Q46. How many times do clock hands overlap in 12 hours?
+
+A) 10\
+B) 11\
+C) 12\
+D) 13
+
+Q47. How many small cubes are formed when a cube is divided into 5 equal parts along each edge?
+
+A) 25\
+B) 75\
+C) 100\
+D) 125
+
+Q48. Find the next number: 1, 8, 27, 64, ?
+
+A) 100\
+B) 115\
+C) 125\
+D) 144
+
+Q49. If P is immediately left of Q and Q is immediately left of R, who is in the middle?
+
+A) P\
+B) Q\
+C) R\
+D) Cannot determine
+
+Q50. A person walks 3 km north, 4 km east and 3 km south. How far is the person from the starting point?
+
+A) 3 km\
+B) 4 km\
+C) 5 km\
+D) 6 km
+
+### Day 30 – Mock Test Answer Key
+
+| Q  | Answer          | Explanation                           |
+| -- | --------------- | ------------------------------------- |
+| 1  | C – 64          | Multiply by 2                         |
+| 2  | B – N           | Add 3 alphabet positions              |
+| 3  | A – DBU         | Move each letter forward by 1         |
+| 4  | B – Eat         | Food is eaten                         |
+| 5  | D – 30          | Others are perfect squares            |
+| 6  | B – Grandfather | Mother's father                       |
+| 7  | B – 10 km       | 6-8-10 triangle                       |
+| 8  | B – 26          | 12 + 15 − 1 = 26                      |
+| 9  | C – 3rd         | Middle of five                        |
+| 10 | C – 4           | 8 ÷ 2 = 4                             |
+| 11 | A               | Dogs → Animals → Living beings        |
+| 12 | A               | Some student singers are talented     |
+| 13 | A – 5           | 40 − (25 + 20 − 10) = 5               |
+| 14 | C – 12          | 20 − 8 = 12                           |
+| 15 | B – Thursday    | Today Wednesday; tomorrow Thursday    |
+| 16 | C – 90°         | Three hour marks apart                |
+| 17 | C – 120°        | 20 × 6°                               |
+| 18 | D – Octagon     | Eight sides                           |
+| 19 | C – 16          | \\(2^4=16\\)                          |
+| 20 | B – 8           | Eight vertices                        |
+| 21 | A – A           | Vertical symmetry                     |
+| 22 | B               | Water image reverses top and bottom   |
+| 23 | C – 8           | Eight corner cubes                    |
+| 24 | C – 8           | (4 − 2)³ = 8                          |
+| 25 | C – 37          | Add 3, 5, 7, 9, 11                    |
+| 26 | B – N           | Subtract 3 letters                    |
+| 27 | C – 24          | C=3, A=1, T=20; total 24              |
+| 28 | B – School      | Teacher works at school               |
+| 29 | D – Elephant    | Others are web technologies           |
+| 30 | B – B           | C > A > B                             |
+| 31 | B – Wednesday   | 50 ÷ 7 leaves 1; Monday + 1 = Tuesday |
+
+Correction: Q31's correct answer is A) Tuesday.
+
+| Q  | Answer        | Explanation                               |
+| -- | ------------- | ----------------------------------------- |
+| 32 | B – 120°      | 8 × 30° = 240°; smaller angle 120°        |
+| 33 | C – 4         | Two folds create four layers              |
+| 34 | D – 12        | Cube has 12 edges                         |
+| 35 | C – 2024      | Divisible by 4                            |
+| 36 | A – North     | Right from west is north                  |
+| 37 | B – 19        | 9 + 11 − 1 = 19                           |
+| 38 | B             | Sharks are fish, and fish are not birds   |
+| 39 | B – 10        | 60 − (35 + 30 − 15) = 10                  |
+| 40 | A             | Strong passwords improve security         |
+| 41 | A – 5 minutes | Each machine makes one item in 5 minutes  |
+| 42 | A             | Smallest to largest                       |
+| 43 | A             | Portfolios demonstrate practical work     |
+| 44 | C – 9         | 36 ÷ 4 = 9                                |
+| 45 | A – East      | Left from south is east                   |
+| 46 | B – 11        | 11 overlaps in 12 hours                   |
+| 47 | D – 125       | 5³ = 125                                  |
+| 48 | C – 125       | 5³ = 125                                  |
+| 49 | B – Q         | P-Q-R                                     |
+| 50 | B – 4 km      | North and south cancel; 4 km east remains |
+
+# Final: Complete Syllabus Revision – 50 Fresh Questions
+
+
+
+Time limit: 60 minutes
+
+Target score: 40/50
+
+
+
+These questions cover all the major topics from the 30-day syllabus. They are a separate revision set, not copied from the mock test.
+
+## Questions
+
+Q1. Number Series: Find the missing number: 6, 12, 24, 48, ?
+
+A) 72\
+B) 84\
+C) 96\
+D) 108
+
+Q2. Alphabet Series: Find the next letter: D, H, L, P, ?
+
+A) R\
+B) S\
+C) T\
+D) U
+
+Q3. Coding-Decoding: If FISH is coded as GJTI, how is LION coded?
+
+A) MJPO\
+B) MKPO\
+C) MJON\
+D) NJPQ
+
+Q4. Analogy: Eye : Sight :: Ear : ?
+
+A) Smell\
+B) Hearing\
+C) Taste\
+D) Touch
+
+Q5. Classification: Find the odd one out.
+
+A) 8\
+B) 27\
+C) 64\
+D) 100
+
+Q6. Blood Relations: A is the sister of B. B is the father of C. How is A related to C?
+
+A) Mother\
+B) Aunt\
+C) Sister\
+D) Grandmother
+
+Q7. Direction Sense: A person walks 8 km north and 6 km east. Find the shortest distance from the starting point.
+
+A) 8 km\
+B) 10 km\
+C) 12 km\
+D) 14 km
+
+Q8. Ranking: A student is 13th from the top and 17th from the bottom. How many students are there?
+
+A) 28\
+B) 29\
+C) 30\
+D) 31
+
+Q9. Linear Seating: Seven people sit in a row. What is the middle position?
+
+A) 3rd\
+B) 4th\
+C) 5th\
+D) 6th
+
+Q10. Circular Seating: Ten people sit around a circular table. How many seats away is the opposite person?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Q11. Syllogism: All computers are machines. All machines are useful.
+
+Conclusion: All computers are useful.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q12. Syllogism: Some students are dancers. All dancers are artists.
+
+Conclusion: Some students are artists.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q13. Venn Diagram: In a group of 45 people, 25 like tea, 20 like coffee and 10 like both. How many like neither?
+
+A) 5\
+B) 10\
+C) 15\
+D) 20
+
+Q14. Statement and Conclusion: Statement: Every candidate who passes the written test is invited for an interview.
+
+Conclusion: A candidate who passes the written test receives an interview invitation.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q15. Statement and Assumption: Statement: "Keep your project files backed up."
+
+Assumption:
+
+A) Files may be lost or damaged\
+B) Projects are unnecessary\
+C) Computers never fail\
+D) Files should be deleted
+
+Q16. Statement and Argument: Should students learn time management?
+
+A) Yes, it helps them organise their work\
+B) No, time is unlimited\
+C) Only teachers need it\
+D) It has no practical use
+
+Q17. Data Sufficiency: What is the value of x?
+
+I. x + 9 = 20.\
+II. x is a positive number.
+
+A) Statement I alone is sufficient\
+B) Statement II alone is sufficient\
+C) Both together are required\
+D) Both are insufficient
+
+Q18. Logical Puzzle: A man has 3 sons. Each son has one sister. How many children does the man have?
+
+A) 3\
+B) 4\
+C) 6\
+D) 7
+
+Q19. Input and Output: Arrange 18, 7, 12, 3 in ascending order.
+
+A) 3, 7, 12, 18\
+B) 18, 12, 7, 3\
+C) 3, 12, 7, 18\
+D) 7, 3, 12, 18
+
+Q20. Calendar: If today is Thursday, what day will it be after 25 days?
+
+A) Sunday\
+B) Monday\
+C) Tuesday\
+D) Wednesday
+
+Q21. Clock: What is the angle between clock hands at 10:00?
+
+A) 30°\
+B) 60°\
+C) 90°\
+D) 120°
+
+Q22. Non-Verbal Reasoning: Find the next symbol: ○, △, □, ○, △, ?
+
+A) ○\
+B) △\
+C) □\
+D) ☆
+
+Q23. Mirror Image: Which capital letter has vertical symmetry in a standard block font?
+
+A) M\
+B) F\
+C) G\
+D) R
+
+Q24. Water Image: An arrow points downward. What direction will its water image point?
+
+A) Up\
+B) Down\
+C) Left\
+D) Right
+
+Q25. Paper Folding: A paper is folded four times. How many layers are formed?
+
+A) 8\
+B) 12\
+C) 16\
+D) 24
+
+Q26. Cubes: How many faces does a cube have?
+
+A) 4\
+B) 6\
+C) 8\
+D) 12
+
+Q27. Dice: On a standard die, opposite faces add up to 7. What is opposite 4?
+
+A) 1\
+B) 2\
+C) 3\
+D) 5
+
+Q28. Number Series: Find the next number: 4, 9, 16, 25, 36, ?
+
+A) 42\
+B) 45\
+C) 49\
+D) 64
+
+Q29. Alphabet Series: Find the next letter: C, F, I, L, ?
+
+A) M\
+B) N\
+C) O\
+D) P
+
+Q30. Coding-Decoding: If each letter moves backward by one position, how is MANGO coded?
+
+A) LZMFN\
+B) LZMNF\
+C) NZOHP\
+D) LBNFO
+
+Q31. Analogy: Carpenter : Wood :: Potter : ?
+
+A) Cloth\
+B) Clay\
+C) Iron\
+D) Paper
+
+Q32. Classification: Find the odd one out.
+
+A) January\
+B) March\
+C) May\
+D) Monday
+
+Q33. Blood Relations: A is the mother of B. B is the brother of C. C is the mother of D. How is A related to D?
+
+A) Aunt\
+B) Grandmother\
+C) Sister\
+D) Mother
+
+Q34. Direction Sense: A person faces east and turns left, then right, then right again. Which direction is the person facing?
+
+A) North\
+B) South\
+C) East\
+D) West
+
+Q35. Ranking: In a row of 32 students, Ravi is 19th from the left. What is his rank from the right?
+
+A) 13\
+B) 14\
+C) 15\
+D) 16
+
+Q36. Seating Arrangement: A is immediately right of B, and C is immediately right of A. Which is the correct order?
+
+A) B-A-C\
+B) C-A-B\
+C) A-B-C\
+D) B-C-A
+
+Q37. Syllogism: No birds are mammals. All eagles are birds.
+
+Conclusion: No eagles are mammals.
+
+A) Follows\
+B) Does not follow\
+C) Maybe\
+D) None
+
+Q38. Venn Diagram: 70 people: 40 like cricket, 35 like football and 20 like both. How many like neither?
+
+A) 10\
+B) 15\
+C) 20\
+D) 25
+
+Q39. Statement and Assumption: Statement: "Register early because workshop seats are limited."
+
+Assumption:
+
+A) The workshop has limited seats\
+B) Everyone dislikes workshops\
+C) Registration is unnecessary\
+D) Seats are unlimited
+
+Q40. Logical Puzzle: A farmer has 12 eggs. All except 4 break. How many eggs remain unbroken?
+
+A) 4\
+B) 8\
+C) 12\
+D) 16
+
+Q41. Input and Output: Input: 5, 15, 10, 20. Arrange in descending order.
+
+A) 5, 10, 15, 20\
+B) 20, 15, 10, 5\
+C) 20, 10, 15, 5\
+D) 15, 20, 10, 5
+
+Q42. Calendar: If January 1 is Wednesday, what day is January 15?
+
+A) Tuesday\
+B) Wednesday\
+C) Thursday\
+D) Friday
+
+Q43. Clock: What is the angle between the hands at 7:00?
+
+A) 120°\
+B) 150°\
+C) 180°\
+D) 210°
+
+Q44. Non-Verbal Reasoning: Find the next arrow: ↑, →, ↓, ←, ?
+
+A) ↑\
+B) →\
+C) ↓\
+D) ←
+
+Q45. Paper Folding: A paper is folded twice and one hole is punched away from the fold lines. How many holes appear after unfolding?
+
+A) 2\
+B) 3\
+C) 4\
+D) 8
+
+Q46. Cubes: A cube is painted on all faces and divided into 27 equal cubes. How many have no paint?
+
+A) 0\
+B) 1\
+C) 6\
+D) 8
+
+Q47. Cubes: A cube is divided into 125 equal smaller cubes. How many are along each edge?
+
+A) 3\
+B) 4\
+C) 5\
+D) 6
+
+Q48. Data Sufficiency: What is the sum of two numbers?
+
+I. The first number is 12.\
+II. The second number is 18.
+
+A) Statement I alone is sufficient\
+B) Statement II alone is sufficient\
+C) Both together are sufficient\
+D) Both are insufficient
+
+Q49. Statement and Argument: Should students practise coding daily?
+
+A) Yes, regular practice improves programming skills\
+B) No, coding is never useful\
+C) Only experienced programmers should code\
+D) Practice has no effect
+
+Q50. Mixed Reasoning: A person walks 7 km north, 4 km east and 7 km south. How far is the person from the starting point?
+
+A) 3 km\
+B) 4 km\
+C) 7 km\
+D) 11 km
+
+## Final Revision – Answer Key with Explanations
+
+| Q  | Answer          | Easy explanation                          |
+| -- | --------------- | ----------------------------------------- |
+| 1  | C – 96          | Multiply by 2                             |
+| 2  | C – T           | Add 4 letters                             |
+| 3  | A – MJPO        | Each letter moves forward by 1            |
+| 4  | B – Hearing     | Ears are used for hearing                 |
+| 5  | D – 100         | Others are perfect cubes                  |
+| 6  | B – Aunt        | Father's sister                           |
+| 7  | B – 10 km       | 6-8-10 triangle                           |
+| 8  | B – 29          | 13 + 17 − 1 = 29                          |
+| 9  | B – 4th         | (7 + 1) ÷ 2 = 4                           |
+| 10 | C – 5           | 10 ÷ 2 = 5                                |
+| 11 | A               | Computer → Machine → Useful               |
+| 12 | A               | Some student dancers are artists          |
+| 13 | B – 10          | 45 − (25 + 20 − 10) = 10                  |
+| 14 | A               | Directly follows                          |
+| 15 | A               | Files can be lost or damaged              |
+| 16 | A               | Time management helps organisation        |
+| 17 | A               | x = 20 − 9 = 11                           |
+| 18 | B – 4           | Three sons share one sister               |
+| 19 | A               | Sort from smallest to largest             |
+| 20 | B – Monday      | 25 ÷ 7 leaves 4; Thursday + 4 = Monday    |
+| 21 | B – 60°         | Two hour marks × 30°                      |
+| 22 | C – Square      | Circle, triangle, square repeat           |
+| 23 | A – M           | Standard block M has vertical symmetry    |
+| 24 | A – Up          | Water image reverses top and bottom       |
+| 25 | C – 16          | \\(2^4=16\\)                              |
+| 26 | B – 6           | Six cube faces                            |
+| 27 | C – 3           | 4 + 3 = 7                                 |
+| 28 | C – 49          | Square numbers; next is 7²                |
+| 29 | C – O           | Add 3 letters                             |
+| 30 | A – LZMFN       | M→L, A→Z, N→M, G→F, O→N                   |
+| 31 | B – Clay        | A potter works with clay                  |
+| 32 | D – Monday      | Others are months                         |
+| 33 | B – Grandmother | A is C's mother; C is D's mother          |
+| 34 | B – South       | East → North → East → South               |
+| 35 | B – 14          | 32 − 19 + 1 = 14                          |
+| 36 | A – B-A-C       | Follow the immediate right relationships  |
+| 37 | A               | Eagles are birds, not mammals             |
+| 38 | B – 15          | 70 − (40 + 35 − 20) = 15                  |
+| 39 | A               | Seats are limited                         |
+| 40 | A – 4           | All except four means four remain         |
+| 41 | B               | Largest to smallest                       |
+| 42 | B – Wednesday   | 14 days later is the same weekday         |
+| 43 | B – 150°        | 7 × 30° = 210°; smaller angle = 150°      |
+| 44 | A – Up          | Arrow rotates clockwise                   |
+| 45 | C – 4           | Two folds create four layers              |
+| 46 | B – 1           | The centre cube has no paint              |
+| 47 | C – 5           | \\(5^3=125\\)                             |
+| 48 | C               | Together: 12 + 18 = 30                    |
+| 49 | A               | Daily practice improves coding skills     |
+| 50 | B – 4 km        | North and south cancel; 4 km east remains |
+
+## Your Logical Reasoning Preparation Tracker
+
+Preparation progress
+
+# 0%
+
+0 of 740 questions covered in completed sections
+
+Days 1–7
+
+Series, coding, analogy, classification, blood relations and test 1
+
+150 questions
+
+Days 8–14
+
+Directions, ranking, seating, syllogism, Venn diagrams and test 2
+
+150 questions
+
+Days 15–21
+
+Statements, data sufficiency, puzzles, input/output and test 3
+
+150 questions
+
+Days 22–28
+
+Calendar, clocks, non-verbal, mirrors, paper folding, cubes and test 4
+
+170 questions
+
+Day 29–30
+
+Mixed practice and full mock test
+
+70 questions
+
+Final revision
+
+Fresh mixed revision questions
+
+50 questions
+
+Reset tracker
+
+Important: The question bank above follows your requested topic schedule. A few earlier answer-key inconsistencies were corrected in the explanations and correction notes. For your website, validate the final MCQ data before publishing, especially questions involving font-dependent mirror images and paper-folding diagrams.

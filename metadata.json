@@ -1,0 +1,8 @@
+{
+  "name": "Placement Quest",
+  "description": "Gamified learning quest for Aptitude, Logical Reasoning, Soft Skills, Certifications, and Projects with Firebase Auth and real-time database synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
